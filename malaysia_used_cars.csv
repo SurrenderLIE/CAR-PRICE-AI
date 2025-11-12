@@ -1,0 +1,701 @@
+make,model,trim,car_type,year,mileage,transmission,fuel_type,engine_cc,battery_kWh,is_turbo,origin_country,location,condition,retail_price(RM),current_price(RM)
+Perodua,Ativa,1.0 Turbo AV,Suv,2022,28499,CVT,Petrol,1.0,,True,Malaysia,Melaka,4,82000,58202.29
+Toyota,Camry,2.5 V,Sedan,2020,59347,Automatic,Hybrid,2.5,,False,Japan,Kuala Lumpur,3,220000,113655.99
+Toyota,Camry,2.0 E,Sedan,2024,7140,Automatic,Hybrid,2.0,,False,Japan,Perlis,2,190000,119212.95
+Perodua,Ativa,1.0 Turbo X,Suv,2024,5685,CVT,Petrol,1.0,,True,Malaysia,Perak,3,72000,48286.77
+Mazda,Mazda3,2.0 Sedan,Sedan,2017,127600,Automatic,Petrol,2.0,,False,Japan,Kuala Lumpur,4,143000,53569.19
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2016,97209,Automatic,Petrol,1.5,,False,Japan,Penang,3,105000,39255.3
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2018,88750,Automatic,Petrol,1.5,,False,Japan,Penang,4,105000,42981.15
+Mercedes,C-Class,C200 Avantgarde,Sedan,2021,90718,Automatic,Petrol,2.0,,True,Germany,Kuala Lumpur,1,290000,116737.85
+Mercedes,A-Class,A250 AMG Line,Hatchback,2021,60190,Automatic,Petrol,2.0,,True,Germany,Perlis,3,270000,110571.8
+Perodua,Axia,1.0 AV,Hatchback,2022,36681,CVT,Petrol,1.0,,False,Malaysia,Selangor,5,49000,33267.19
+Nissan,X-Trail,2.0 2WD,Suv,2016,168663,CVT,Petrol,2.0,,False,Japan,Kedah,3,145000,37557.3
+Proton,X50,Flagship,Suv,2023,55255,DCT,Hybrid,1.5,,True,Malaysia,Melaka,4,113000,57717.09
+BYD,Seal,Premium,Sedan,2022,116495,Automatic,Electric,,82.5,,China,Terengganu,3,230000,93999.12
+BYD,Atto 3,Extended Range,Suv,2023,138973,Automatic,Electric,,60.5,,China,Perak,3,170000,71737.87
+Honda,City,1.5 S,Sedan,2020,100045,CVT,Hybrid,1.5,,False,Japan,Kedah,5,84000,42439.84
+BYD,Atto 3,Extended Range,Suv,2024,25404,Automatic,Electric,,60.5,,China,Pahang,4,170000,100885.12
+Perodua,Axia,1.0 G,Hatchback,2023,62784,Manual,Petrol,1.0,,False,Malaysia,Negeri Sembilan,4,38000,22724.0
+Proton,X50,Flagship,Suv,2024,15039,DCT,Petrol,1.5,,True,Malaysia,Kelantan,3,113000,65976.32
+Toyota,Camry,2.0 E,Sedan,2018,165205,CVT,Petrol,2.0,,False,Japan,Terengganu,3,190000,88544.83
+Honda,CR-V,2.0 2WD,Suv,2020,94456,CVT,Petrol,2.0,,False,Japan,Terengganu,3,155000,77139.46
+Perodua,Bezza,1.3 AV,Sedan,2019,62882,CVT,Petrol,1.3,,False,Malaysia,Penang,4,55000,31612.41
+Honda,City,1.5 RS e:HEV,Sedan,2021,126579,CVT,Petrol,1.5,,False,Japan,Johor,5,109000,52593.49
+Volkswagen,Passat,2.0 Highline,Sedan,2017,141331,DCT,Petrol,2.0,,True,Germany,Kuala Lumpur,2,200000,60288.86
+Mercedes,A-Class,A250 AMG Line,Hatchback,2023,69248,Automatic,Petrol,2.0,,True,Germany,Penang,4,270000,124436.32
+Nissan,X-Trail,2.0 2WD,Suv,2021,127630,CVT,Hybrid,2.0,,False,Japan,Johor,4,145000,53967.27
+Perodua,Ativa,1.0 Turbo AV,Suv,2016,175476,CVT,Hybrid,1.0,,True,Malaysia,Melaka,4,82000,29670.01
+Mazda,CX-5,2.0 2WD,Suv,2022,56313,Automatic,Petrol,2.0,,False,Japan,Kedah,3,150000,84626.77
+Perodua,Ativa,1.0 Turbo AV,Suv,2020,99434,CVT,Hybrid,1.0,,True,Malaysia,Penang,3,82000,41926.28
+Proton,Saga,Standard,Sedan,2019,94173,Automatic,Petrol,1.3,,False,Malaysia,Pahang,3,34000,15357.79
+Perodua,Ativa,1.0 Turbo X,Suv,2019,118034,CVT,Hybrid,1.0,,True,Malaysia,Kelantan,3,72000,31216.99
+BYD,Atto 3,Extended Range,Suv,2022,56353,Automatic,Electric,,60.5,,China,Perak,4,170000,68571.93
+Perodua,Ativa,1.0 Turbo X,Suv,2023,53307,CVT,Hybrid,1.0,,True,Malaysia,Negeri Sembilan,4,72000,50878.03
+Mercedes,C-Class,C200 Avantgarde,Sedan,2021,69546,Automatic,Petrol,2.0,,True,Germany,Kedah,3,290000,120641.59
+BYD,Atto 3,Extended Range,Suv,2023,19800,Automatic,Electric,,60.5,,China,Penang,2,170000,77611.76
+Proton,Saga,Standard,Sedan,2019,93938,CVT,Petrol,1.3,,False,Malaysia,Penang,5,34000,14138.89
+Nissan,Almera,1.0 VL Turbo,Sedan,2020,118061,Automatic,Petrol,1.0,,True,Japan,Perlis,2,85000,33562.31
+Volkswagen,Golf,R,Hatchback,2016,177595,DCT,Petrol,2.0,,True,Germany,Kuala Lumpur,5,300000,86167.14
+Proton,Persona,Premium,Sedan,2016,189155,CVT,Petrol,1.6,,False,Malaysia,Terengganu,4,58000,17654.8
+Nissan,X-Trail,2.5 4WD,Suv,2020,97548,CVT,Petrol,2.5,,False,Japan,Johor,5,170000,75657.75
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2021,74292,Automatic,Petrol,1.5,,False,Japan,Perak,4,105000,53006.14
+Mazda,CX-5,2.5 Turbo,Suv,2017,181452,Automatic,Petrol,2.5,,True,Japan,Kelantan,3,195000,69547.04
+Mazda,CX-5,2.0 2WD,Suv,2016,94310,Automatic,Diesel,2.0,,False,Japan,Pahang,4,150000,54604.37
+Proton,X70,Premium,Suv,2016,198432,DCT,Petrol,1.5,,True,Malaysia,Perlis,3,140000,42996.97
+BMW,5 Series,520,Sedan,2022,25666,Automatic,Petrol,2.0,,True,Germany,Johor,3,330000,130211.84
+Perodua,Axia,1.0 AV,Hatchback,2020,70360,CVT,Petrol,1.0,,False,Malaysia,Perlis,3,49000,25346.72
+Perodua,Axia,1.0 G,Hatchback,2016,168939,Automatic,Petrol,1.0,,False,Malaysia,Penang,3,38000,12983.26
+Honda,City,1.5 RS e:HEV,Sedan,2020,120797,CVT,Petrol,1.5,,False,Japan,Kuala Lumpur,3,109000,55087.06
+Honda,City,1.5 S,Sedan,2016,92092,CVT,Petrol,1.5,,False,Japan,Penang,4,84000,36214.63
+Honda,City,1.5 S,Sedan,2021,126139,CVT,Hybrid,1.5,,False,Japan,Penang,4,84000,41243.85
+BMW,5 Series,520,Sedan,2022,35071,Automatic,Petrol,2.0,,True,Germany,Perak,4,330000,156763.16
+BMW,5 series(D),520d,Sedan,2016,160943,Automatic,Diesel,2.0,,True,Germany,Perlis,3,330000,78613.19
+Nissan,Almera,1.0 VLT Turbo,Sedan,2016,142308,CVT,Petrol,1.0,,True,Japan,Kelantan,3,95000,30793.57
+Proton,X70,Premium,Suv,2017,81052,DCT,Petrol,1.5,,True,Malaysia,Melaka,4,140000,57894.97
+Toyota,Vios,GR-S,Sedan,2023,34449,Automatic,Hybrid,1.5,,False,Japan,Melaka,1,100000,60300.57
+Volkswagen,Golf,R,Hatchback,2017,113670,DCT,Petrol,2.0,,True,Germany,Penang,2,300000,90541.61
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2018,184779,Automatic,Petrol,1.5,,False,Japan,Melaka,5,105000,41993.9
+Honda,CR-V,2.0 2WD,Suv,2020,59288,CVT,Petrol,2.0,,False,Japan,Johor,5,155000,93549.07
+BYD,Seal,Premium,Sedan,2022,72601,Automatic,Electric,,82.5,,China,Perlis,4,230000,112309.31
+Tesla,Model 3,Long Range AWD,Sedan,2022,33079,Automatic,Electric,,75.0,,USA,Kuala Lumpur,4,250000,118338.67
+BMW,5 Series,520,Sedan,2016,199852,Automatic,Petrol,2.0,,True,Germany,Perak,5,330000,83662.02
+BMW,IX,xDrive40,Suv,2024,48444,Automatic,Electric,,76.6,,Germany,Johor,4,385000,178661.73
+Toyota,Corolla,1.8 E,Sedan,2023,37365,Automatic,Petrol,1.8,,False,Japan,Selangor,5,128000,86578.68
+Toyota,Corolla,1.8 G,Sedan,2020,64694,Automatic,Hybrid,1.8,,False,Japan,Negeri Sembilan,3,136000,75543.26
+Honda,CR-V,1.5 TC-P,Suv,2024,22389,CVT,Hybrid,1.5,,True,Japan,Kelantan,3,180000,114786.09
+Mercedes,C-Class,C200 Avantgarde,Sedan,2020,64668,Automatic,Petrol,2.0,,True,Germany,Perak,4,290000,114563.02
+Mercedes,A-Class,A250 AMG Line,Hatchback,2016,155968,Automatic,Petrol,2.0,,True,Germany,Kelantan,3,270000,68101.16
+Volkswagen,Tiguan,1.4 TSI Highline,Suv,2019,115333,DCT,Petrol,1.4,,True,Germany,Kelantan,2,175000,66579.92
+BYD,Seal,Performance AWD,Sedan,2023,118927,Automatic,Electric,,82.5,,China,Johor,4,260000,99512.9
+Perodua,Axia,1.0 G,Hatchback,2017,170487,Manual,Petrol,1.0,,False,Malaysia,Kedah,4,38000,17724.0
+Nissan,X-Trail,2.5 4WD,Suv,2019,127449,CVT,Petrol,2.5,,False,Japan,Johor,3,170000,53501.59
+Tesla,Model Y,Performance,Suv,2024,31991,Automatic,Electric,,75.0,,USA,Kelantan,3,280000,147143.98
+Volkswagen,Tiguan,2.0 R-Line,Suv,2024,14858,DCT,Petrol,2.0,,True,Germany,Melaka,3,260000,132419.81
+Nissan,Almera,1.0 VL Turbo,Sedan,2017,153272,Automatic,Petrol,1.0,,True,Japan,Perlis,3,85000,26295.23
+Perodua,Myvi,1.3 G,Hatchback,2021,81601,Automatic,Petrol,1.3,,False,Malaysia,Selangor,4,49000,29861.31
+Nissan,Almera,1.0 VLT Turbo,Sedan,2018,109395,Automatic,Petrol,1.0,,True,Japan,Kelantan,3,95000,37975.37
+Mercedes,A-Class,A200 Progressive,Hatchback,2017,125848,Automatic,Petrol,1.3,,True,Germany,Kelantan,4,230000,81502.19
+BMW,IX,xDrive50,Suv,2024,137296,Automatic,Electric,,111.5,,Germany,Kedah,5,490000,226297.92
+Honda,City,1.5 RS e:HEV,Sedan,2019,55976,CVT,Hybrid,1.5,,False,Japan,Terengganu,3,109000,49511.51
+Proton,Emas7,Premium,Suv,2023,92410,Automatic,Electric,,60.22,,Malaysia,Pahang,3,119800,59454.97
+Perodua,Axia,1.0 G,Hatchback,2019,89157,CVT,Petrol,1.0,,False,Malaysia,Penang,4,38000,17587.51
+BYD,Atto 3,Standard Range,Suv,2023,18859,Automatic,Electric,,49.9,,China,Melaka,3,150000,63862.59
+BYD,Atto 3,Standard Range,Suv,2022,95450,Automatic,Electric,,49.9,,China,Perak,5,150000,61530.76
+Nissan,X-Trail,2.5 4WD,Suv,2020,118231,CVT,Petrol,2.5,,False,Japan,Negeri Sembilan,2,170000,66404.26
+Volkswagen,Tiguan,1.4 TSI Highline,Suv,2019,66365,DCT,Petrol,1.4,,True,Germany,Selangor,4,175000,73938.48
+Toyota,Camry,2.5 V,Sedan,2021,63010,CVT,Petrol,2.5,,False,Japan,Perak,2,220000,123441.16
+Perodua,Axia,1.0 G,Hatchback,2023,21195,Manual,Petrol,1.0,,False,Malaysia,Pahang,2,38000,23507.24
+Nissan,X-Trail,2.5 4WD,Suv,2022,31779,CVT,Hybrid,2.5,,False,Japan,Johor,3,170000,81856.85
+Honda,CR-V,2.0 2WD,Suv,2016,93015,CVT,Petrol,2.0,,False,Japan,Terengganu,3,155000,58826.58
+Honda,CR-V,2.0 2WD,Suv,2023,60327,CVT,Petrol,2.0,,False,Japan,Melaka,3,155000,81807.45
+Perodua,Myvi,1.5 AV,Hatchback,2018,128213,Automatic,Petrol,1.5,,False,Malaysia,Negeri Sembilan,3,59000,30034.94
+Proton,X70,Premium,Suv,2017,177852,DCT,Hybrid,1.5,,True,Malaysia,Kelantan,4,140000,57438.11
+Mazda,CX-5,2.0 2WD,Suv,2021,116132,Automatic,Petrol,2.0,,False,Japan,Perlis,3,150000,70047.11
+Proton,X50,Flagship,Suv,2017,90629,DCT,Petrol,1.5,,True,Malaysia,Penang,2,113000,43137.53
+Proton,Persona,Executive,Sedan,2017,138774,Automatic,Petrol,1.6,,False,Malaysia,Selangor,4,52000,21318.89
+Perodua,Myvi,1.3 G,Hatchback,2024,23879,CVT,Petrol,1.3,,False,Malaysia,Penang,1,49000,34477.51
+BMW,IX,xDrive40,Suv,2023,24593,Automatic,Electric,,76.6,,Germany,Kuala Lumpur,2,385000,163564.92
+Proton,Saga,Premium,Sedan,2020,106377,Manual,Petrol,1.3,,False,Malaysia,Negeri Sembilan,3,41000,19183.18
+Perodua,Bezza,1.3 AV,Sedan,2020,95331,Automatic,Petrol,1.3,,False,Malaysia,Perak,3,55000,29865.82
+Volkswagen,Golf,1.4 TSI,Hatchback,2019,55071,DCT,Petrol,1.4,,True,Germany,Kuala Lumpur,4,155000,66656.06
+BYD,Atto 3,Extended Range,Suv,2022,78362,Automatic,Electric,,60.5,,China,Perlis,4,170000,73961.93
+BMW,IX,xDrive50,Suv,2023,110177,Automatic,Electric,,111.5,,Germany,Kuala Lumpur,2,490000,189813.83
+Perodua,Axia,1.0 G,Hatchback,2023,58901,CVT,Petrol,1.0,,False,Malaysia,Terengganu,4,38000,24578.53
+Mazda,Mazda3,2.0 Liftback,Sedan,2016,90242,Automatic,Petrol,2.0,,False,Japan,Penang,4,150000,57633.66
+Mercedes,C-Class,C300 AMG Line,Sedan,2016,91350,Automatic,Petrol,2.0,,True,Germany,Kedah,2,330000,92149.8
+Proton,X70,Executive,Suv,2023,42664,DCT,Hybrid,1.5,,True,Malaysia,Melaka,3,123000,61946.71
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2018,202116,Automatic,Petrol,1.5,,False,Japan,Melaka,2,105000,40238.49
+Volkswagen,Golf,R,Hatchback,2021,105613,DCT,Petrol,2.0,,True,Germany,Pahang,4,300000,114468.99
+Toyota,Corolla,1.8 G,Sedan,2020,56420,Automatic,Hybrid,1.8,,False,Japan,Kuala Lumpur,3,136000,66865.07
+Volkswagen,Golf,R,Hatchback,2023,23066,DCT,Petrol,2.0,,True,Germany,Penang,4,300000,134420.35
+Mercedes,C-Class,C300 AMG Line,Sedan,2018,208167,Automatic,Petrol,2.0,,True,Germany,Melaka,2,330000,96619.89
+Mazda,CX-5,2.5 Turbo,Suv,2022,59871,Automatic,Diesel,2.5,,True,Japan,Perak,4,195000,94710.87
+BMW,IX1,eDrive20,Suv,2022,107735,Automatic,Electric,,64.7,,Germany,Kedah,2,250800,81106.99
+BMW,5 Series,520,Sedan,2022,32754,Automatic,Petrol,2.0,,True,Germany,Selangor,4,330000,137725.96
+Honda,Civic,1.5 RS Turbo,Sedan,2017,195211,CVT,Petrol,1.5,,True,Japan,Johor,3,150000,57297.18
+BYD,Seal,Performance AWD,Sedan,2024,134707,Automatic,Electric,,82.5,,China,Johor,4,260000,115833.71
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2024,22935,Automatic,Petrol,1.5,,False,Japan,Melaka,5,105000,66252.57
+Volkswagen,Golf,1.4 TSI,Hatchback,2017,123614,DCT,Petrol,1.4,,True,Germany,Negeri Sembilan,3,155000,50656.46
+Perodua,Axia,1.0 G,Hatchback,2023,22378,CVT,Petrol,1.0,,False,Malaysia,Negeri Sembilan,3,38000,23641.71
+Proton,Persona,Standard,Sedan,2019,138270,Automatic,Petrol,1.6,,False,Malaysia,Perlis,3,47000,18850.63
+Toyota,Vios,1.5 E,Sedan,2016,200838,Automatic,Hybrid,1.5,,False,Japan,Penang,1,90000,29938.64
+Mazda,CX-5,2.5 Turbo,Suv,2016,149660,Automatic,Diesel,2.5,,True,Japan,Kelantan,3,195000,56641.31
+BYD,Seal,Premium,Sedan,2023,93301,Automatic,Electric,,82.5,,China,Penang,4,230000,95397.4
+Proton,Persona,Standard,Sedan,2016,88902,Automatic,Petrol,1.6,,False,Malaysia,Perak,2,47000,18342.25
+Proton,X50,Standard,Suv,2024,12718,DCT,Hybrid,1.5,,True,Malaysia,Terengganu,4,89000,58512.94
+BMW,IX,xDrive50,Suv,2024,22747,Automatic,Electric,,111.5,,Germany,Kuala Lumpur,4,490000,252917.69
+Perodua,Axia,1.0 G,Hatchback,2024,19760,Automatic,Petrol,1.0,,False,Malaysia,Terengganu,4,38000,28184.66
+BMW,3 Series,330i,Sedan,2023,27943,Automatic,Petrol,2.0,,True,Germany,Penang,5,290000,150633.83
+Tesla,Model 3,RWD,Sedan,2023,148353,Automatic,Electric,,57.5,,USA,Kelantan,4,190000,78080.93
+Nissan,X-Trail,2.5 4WD,Suv,2016,114801,CVT,Petrol,2.5,,False,Japan,Kedah,4,170000,53983.68
+BMW,5 series(D),520d,Sedan,2019,67982,Automatic,Diesel,2.0,,True,Germany,Pahang,3,330000,104106.63
+Perodua,Bezza,1.3 AV,Sedan,2016,185224,CVT,Petrol,1.3,,False,Malaysia,Melaka,3,55000,18509.61
+Perodua,Ativa,1.0 Turbo AV,Suv,2024,10740,CVT,Hybrid,1.0,,True,Malaysia,Selangor,5,82000,54411.32
+Proton,Emas7,Premium,Suv,2024,5284,Automatic,Electric,,60.22,,Malaysia,Johor,3,119800,78374.98
+Mercedes,A-Class,A200 Progressive,Hatchback,2020,83358,Automatic,Petrol,1.3,,True,Germany,Kedah,4,230000,82859.64
+Perodua,Bezza,1.3 AV,Sedan,2019,67875,Automatic,Petrol,1.3,,False,Malaysia,Perlis,3,55000,28689.51
+Perodua,Axia,1.0 G,Hatchback,2017,188452,Manual,Petrol,1.0,,False,Malaysia,Pahang,3,38000,13706.42
+BYD,Seal,Premium,Sedan,2023,77334,Automatic,Electric,,82.5,,China,Selangor,3,230000,108028.51
+Perodua,Bezza,1.0 G,Sedan,2017,158726,Automatic,Petrol,1.0,,False,Malaysia,Kedah,2,43000,16993.04
+Proton,Emas7,Prime,Suv,2024,71427,Automatic,Electric,,49.52,,Malaysia,Johor,3,105800,50238.51
+Proton,Persona,Executive,Sedan,2018,157076,Automatic,Petrol,1.6,,False,Malaysia,Penang,3,52000,19041.85
+Volkswagen,Passat,2.0 Highline,Sedan,2018,165668,DCT,Petrol,2.0,,True,Germany,Melaka,5,200000,68256.56
+BYD,Seal,Performance AWD,Sedan,2023,97913,Automatic,Electric,,82.5,,China,Johor,4,260000,123132.79
+Perodua,Bezza,1.0 G,Sedan,2018,178065,CVT,Petrol,1.0,,False,Malaysia,Kedah,4,43000,18270.7
+BMW,IX,xDrive50,Suv,2024,70217,Automatic,Electric,,111.5,,Germany,Kelantan,3,490000,239425.23
+Proton,Emas7,Prime,Suv,2023,53977,Automatic,Electric,,49.52,,Malaysia,Perak,5,105800,60754.41
+Perodua,Bezza,1.0 G,Sedan,2016,214949,Automatic,Petrol,1.0,,False,Malaysia,Terengganu,2,43000,15450.37
+BMW,IX,xDrive50,Suv,2023,90419,Automatic,Electric,,111.5,,Germany,Johor,3,490000,239540.38
+BMW,5 Series,520i,Sedan,2024,14075,Automatic,Petrol,2.0,,True,Germany,Perak,4,330000,165414.87
+Mercedes,A-Class,A250 AMG Line,Hatchback,2024,16252,Automatic,Petrol,2.0,,True,Germany,Johor,1,270000,134280.98
+Honda,Civic,Type R,Sedan,2016,219334,CVT,Petrol,2.0,,True,Japan,Perak,4,390000,134112.23
+Perodua,Bezza,1.0 G,Sedan,2018,189740,CVT,Petrol,1.0,,False,Malaysia,Perak,3,43000,19788.22
+Volkswagen,Passat,2.0 Highline,Sedan,2018,215941,DCT,Petrol,2.0,,True,Germany,Melaka,3,200000,54083.52
+Mercedes,A-Class,A200 Progressive,Hatchback,2021,51859,Automatic,Petrol,1.3,,True,Germany,Pahang,2,230000,94016.45
+BYD,Atto 3,Standard Range,Suv,2023,100550,Automatic,Electric,,49.9,,China,Johor,3,150000,53804.24
+Proton,Saga,Premium,Sedan,2023,30677,Automatic,Petrol,1.3,,False,Malaysia,Selangor,3,41000,23045.02
+Proton,Persona,Premium,Sedan,2018,80805,Automatic,Petrol,1.6,,False,Malaysia,Kedah,5,58000,27888.11
+Mercedes,C-Class,C200 Avantgarde,Sedan,2021,63942,Automatic,Petrol,2.0,,True,Germany,Terengganu,4,290000,113984.06
+Perodua,Bezza,1.3 AV,Sedan,2022,52129,Automatic,Petrol,1.3,,False,Malaysia,Kelantan,5,55000,40827.02
+Honda,City,1.5 S,Sedan,2021,86434,CVT,Hybrid,1.5,,False,Japan,Penang,4,84000,39734.1
+Honda,City,1.5 S,Sedan,2019,90279,CVT,Hybrid,1.5,,False,Japan,Penang,1,84000,34770.46
+Toyota,Vios,1.5 E,Sedan,2024,5817,CVT,Hybrid,1.5,,False,Japan,Pahang,5,90000,66262.98
+Toyota,Camry,2.0 E,Sedan,2017,94454,CVT,Hybrid,2.0,,False,Japan,Perak,1,190000,76379.31
+Mazda,CX-5,2.0 2WD,Suv,2016,121101,Automatic,Petrol,2.0,,False,Japan,Penang,3,150000,45866.33
+Proton,Emas7,Prime,Suv,2024,51976,Automatic,Electric,,49.52,,Malaysia,Kedah,4,105800,58526.58
+Honda,Civic,1.5 RS Turbo,Sedan,2024,9972,CVT,Petrol,1.5,,True,Japan,Kuala Lumpur,4,150000,90562.6
+Toyota,Camry,2.5 V,Sedan,2022,30875,CVT,Petrol,2.5,,False,Japan,Terengganu,5,220000,154745.18
+Proton,X70,Premium,Suv,2017,194307,DCT,Hybrid,1.5,,True,Malaysia,Johor,2,140000,53039.83
+Mercedes,C-Class,C200 Avantgarde,Sedan,2016,116954,Automatic,Petrol,2.0,,True,Germany,Selangor,3,290000,81809.6
+BMW,5 series(D),520d,Sedan,2020,114585,Automatic,Diesel,2.0,,True,Germany,Negeri Sembilan,3,330000,118769.93
+Volkswagen,Golf,1.4 TSI,Hatchback,2024,19308,DCT,Petrol,1.4,,True,Germany,Kuala Lumpur,4,155000,74983.93
+Toyota,Vios,1.5 G,Sedan,2017,168553,CVT,Hybrid,1.5,,False,Japan,Melaka,3,95000,38172.45
+BMW,5 series(D),520d,Sedan,2022,65450,Automatic,Diesel,2.0,,True,Germany,Penang,5,330000,127442.71
+Honda,CR-V,1.5 TC-P,Suv,2022,33249,CVT,Petrol,1.5,,True,Japan,Selangor,2,180000,116369.28
+Perodua,Ativa,1.0 Turbo X,Suv,2018,146994,CVT,Petrol,1.0,,True,Malaysia,Perak,3,72000,35989.5
+Tesla,Model Y,RWD,Suv,2022,12298,Automatic,Electric,,60.0,,USA,Negeri Sembilan,3,210000,99769.69
+Mercedes,A-Class,A250 AMG Line,Hatchback,2024,16482,Automatic,Petrol,2.0,,True,Germany,Selangor,4,270000,141154.72
+Perodua,Myvi,1.3 G,Hatchback,2024,21061,CVT,Petrol,1.3,,False,Malaysia,Kuala Lumpur,3,49000,34183.49
+Tesla,Model 3,RWD,Sedan,2022,52445,Automatic,Electric,,57.5,,USA,Kelantan,2,190000,85730.3
+BYD,Atto 3,Standard Range,Suv,2024,5522,Automatic,Electric,,49.9,,China,Negeri Sembilan,3,150000,77730.29
+Proton,Emas7,Prime,Suv,2024,19141,Automatic,Electric,,49.52,,Malaysia,Johor,4,105800,54073.93
+Proton,Saga,Standard,Sedan,2018,151343,Manual,Petrol,1.3,,False,Malaysia,Terengganu,3,34000,11677.48
+Tesla,Model Y,RWD,Suv,2023,75687,Automatic,Electric,,60.0,,USA,Melaka,3,210000,81222.93
+Nissan,X-Trail,2.0 2WD,Suv,2021,118656,CVT,Hybrid,2.0,,False,Japan,Kelantan,3,145000,52438.94
+Perodua,Bezza,1.3 AV,Sedan,2019,97354,CVT,Petrol,1.3,,False,Malaysia,Kedah,4,55000,27550.92
+Tesla,Model 3,RWD,Sedan,2024,33602,Automatic,Electric,,57.5,,USA,Pahang,3,190000,94276.89
+Volkswagen,Passat,1.8 Comfortline,Sedan,2016,178933,DCT,Petrol,1.8,,True,Germany,Terengganu,4,180000,49743.42
+Nissan,Almera,1.0 VL Turbo,Sedan,2023,23254,CVT,Petrol,1.0,,True,Japan,Penang,2,85000,36486.98
+Volkswagen,Golf,GTI,Hatchback,2017,99774,DCT,Petrol,2.0,,True,Germany,Johor,3,220000,72884.93
+Volkswagen,Golf,1.4 TSI,Hatchback,2016,81085,DCT,Petrol,1.4,,True,Germany,Perak,3,155000,48487.29
+Honda,CR-V,1.5 TC-P,Suv,2023,27648,CVT,Hybrid,1.5,,True,Japan,Selangor,4,180000,97953.65
+Honda,City,1.5 S,Sedan,2021,87526,CVT,Petrol,1.5,,False,Japan,Melaka,3,84000,48439.16
+Volkswagen,Passat,2.0 Highline,Sedan,2020,90192,DCT,Petrol,2.0,,True,Germany,Johor,4,200000,76695.14
+BYD,Seal,Premium,Sedan,2022,52244,Automatic,Electric,,82.5,,China,Negeri Sembilan,5,230000,109935.75
+Tesla,Model Y,RWD,Suv,2023,53038,Automatic,Electric,,60.0,,USA,Kuala Lumpur,4,210000,95667.55
+Mazda,Mazda3,2.0 Sedan,Sedan,2019,100292,Automatic,Petrol,2.0,,False,Japan,Penang,4,143000,63869.99
+BMW,IX,xDrive40,Suv,2023,118688,Automatic,Electric,,76.6,,Germany,Kedah,4,385000,130911.29
+Proton,Emas7,Prime,Suv,2024,117356,Automatic,Electric,,49.52,,Malaysia,Kedah,4,105800,47585.02
+Volkswagen,Golf,GTI,Hatchback,2021,77074,DCT,Petrol,2.0,,True,Germany,Kelantan,4,220000,92393.4
+Honda,CR-V,1.5 TC-P,Suv,2024,22437,CVT,Hybrid,1.5,,True,Japan,Perak,4,180000,117726.77
+BMW,3 Series,320i,Sedan,2020,136724,Automatic,Petrol,2.0,,True,Germany,Negeri Sembilan,5,250000,98608.08
+Toyota,Vios,1.5 G,Sedan,2021,133253,CVT,Petrol,1.5,,False,Japan,Kelantan,4,95000,51562.58
+Volkswagen,Passat,2.0 Highline,Sedan,2023,45242,DCT,Petrol,2.0,,True,Germany,Melaka,4,200000,100678.53
+Volkswagen,Tiguan,2.0 R-Line,Suv,2019,75789,DCT,Petrol,2.0,,True,Germany,Perlis,1,260000,106509.18
+Mazda,Mazda3,2.0 Liftback,Sedan,2024,14869,Automatic,Petrol,2.0,,False,Japan,Perak,4,150000,89875.52
+Perodua,Axia,1.0 G,Hatchback,2019,124786,Automatic,Petrol,1.0,,False,Malaysia,Perak,4,38000,19150.04
+Toyota,Corolla,1.8 E,Sedan,2016,169730,CVT,Hybrid,1.8,,False,Japan,Pahang,2,128000,52449.31
+Perodua,Bezza,1.3 AV,Sedan,2021,66614,Automatic,Petrol,1.3,,False,Malaysia,Perlis,4,55000,33344.35
+Perodua,Ativa,1.0 Turbo X,Suv,2020,81459,CVT,Hybrid,1.0,,True,Malaysia,Kuala Lumpur,3,72000,34155.73
+BMW,5 Series,520,Sedan,2016,160073,Automatic,Petrol,2.0,,True,Germany,Perlis,3,330000,88998.56
+Perodua,Myvi,1.5 H,Hatchback,2020,100372,Automatic,Petrol,1.5,,False,Malaysia,Kuala Lumpur,4,54000,31128.01
+Perodua,Myvi,1.3 G,Hatchback,2017,118569,Automatic,Petrol,1.3,,False,Malaysia,Penang,4,49000,21059.98
+Nissan,X-Trail,2.0 2WD,Suv,2018,217063,CVT,Petrol,2.0,,False,Japan,Melaka,3,145000,47665.89
+Mazda,CX-5,2.0 2WD,Suv,2022,51979,Automatic,Petrol,2.0,,False,Japan,Perak,4,150000,76226.94
+Tesla,Model 3,Long Range AWD,Sedan,2023,118658,Automatic,Electric,,75.0,,USA,Johor,2,250000,101273.46
+BMW,5 Series,520,Sedan,2022,33711,Automatic,Petrol,2.0,,True,Germany,Melaka,4,330000,142190.78
+Proton,X50,Flagship,Suv,2020,83712,DCT,Petrol,1.5,,True,Malaysia,Kuala Lumpur,2,113000,49996.59
+Honda,Civic,Type R,Sedan,2019,109174,CVT,Petrol,2.0,,True,Japan,Kedah,5,390000,179354.32
+Nissan,X-Trail,2.0 2WD,Suv,2020,55055,CVT,Petrol,2.0,,False,Japan,Penang,5,145000,70713.4
+BMW,IX,xDrive50,Suv,2023,78169,Automatic,Electric,,111.5,,Germany,Terengganu,3,490000,211850.84
+BMW,5 Series,520,Sedan,2022,20742,Automatic,Petrol,2.0,,True,Germany,Johor,3,330000,152060.02
+BMW,5 series(D),520d,Sedan,2016,159095,Automatic,Diesel,2.0,,True,Germany,Perak,3,330000,90559.88
+Honda,CR-V,1.5 TC-P,Suv,2018,176221,CVT,Hybrid,1.5,,True,Japan,Terengganu,4,180000,64931.62
+Honda,CR-V,1.5 TC-P,Suv,2016,94742,CVT,Hybrid,1.5,,True,Japan,Kelantan,3,180000,79242.15
+BMW,3 Series,330i,Sedan,2017,138951,Automatic,Petrol,2.0,,True,Germany,Selangor,2,290000,82636.8
+Tesla,Model 3,RWD,Sedan,2022,52800,Automatic,Electric,,57.5,,USA,Kelantan,3,190000,87484.52
+Mercedes,C-Class,C200 Avantgarde,Sedan,2019,74433,Automatic,Petrol,2.0,,True,Germany,Kelantan,3,290000,107619.57
+Proton,Saga,Premium,Sedan,2022,22386,Manual,Petrol,1.3,,False,Malaysia,Kedah,3,41000,24424.21
+Proton,Persona,Standard,Sedan,2022,56614,CVT,Petrol,1.6,,False,Malaysia,Perlis,4,47000,28094.32
+Mercedes,C-Class,C300 AMG Line,Sedan,2023,20394,Automatic,Petrol,2.0,,True,Germany,Penang,2,330000,164073.75
+BMW,5 Series,520,Sedan,2016,128776,Automatic,Petrol,2.0,,True,Germany,Perlis,3,330000,89020.79
+Tesla,Model Y,RWD,Suv,2023,36449,Automatic,Electric,,60.0,,USA,Pahang,2,210000,93587.74
+Proton,X70,Executive,Suv,2016,139751,DCT,Hybrid,1.5,,True,Malaysia,Pahang,5,123000,42336.51
+Perodua,Axia,1.0 AV,Hatchback,2022,59614,CVT,Petrol,1.0,,False,Malaysia,Perak,4,49000,33301.72
+Nissan,Almera,1.0 VLT Turbo,Sedan,2022,49068,CVT,Petrol,1.0,,True,Japan,Kuala Lumpur,3,95000,46904.63
+Perodua,Axia,1.0 AV,Hatchback,2021,75846,CVT,Petrol,1.0,,False,Malaysia,Penang,4,49000,29627.24
+Mazda,Mazda3,2.0 Liftback,Sedan,2019,129125,Automatic,Petrol,2.0,,False,Japan,Negeri Sembilan,2,150000,65534.61
+Honda,Civic,1.5 RS Turbo,Sedan,2019,75653,CVT,Petrol,1.5,,True,Japan,Pahang,5,150000,82042.48
+Toyota,Camry,2.0 E,Sedan,2020,99972,CVT,Petrol,2.0,,False,Japan,Melaka,5,190000,111227.96
+Tesla,Model 3,RWD,Sedan,2023,47181,Automatic,Electric,,57.5,,USA,Penang,3,190000,93465.19
+Tesla,Model Y,Performance,Suv,2022,104678,Automatic,Electric,,75.0,,USA,Johor,5,280000,118646.7
+Volkswagen,Passat,1.8 Comfortline,Sedan,2020,103754,DCT,Petrol,1.8,,True,Germany,Penang,3,180000,69484.94
+BMW,5 series(D),520d,Sedan,2024,12920,Automatic,Diesel,2.0,,True,Germany,Kedah,3,330000,140649.66
+BMW,3 Series,330i,Sedan,2016,140662,Automatic,Petrol,2.0,,True,Germany,Kuala Lumpur,4,290000,71546.13
+BYD,Atto 3,Standard Range,Suv,2022,138007,Automatic,Electric,,49.9,,China,Perlis,5,150000,61240.05
+Proton,Emas7,Premium,Suv,2023,34569,Automatic,Electric,,60.22,,Malaysia,Kedah,3,119800,68715.24
+Proton,Emas7,Prime,Suv,2024,43712,Automatic,Electric,,49.52,,Malaysia,Johor,4,105800,55823.34
+Proton,Emas7,Premium,Suv,2022,80914,Automatic,Electric,,60.22,,Malaysia,Negeri Sembilan,5,119800,60461.06
+Toyota,Corolla,1.8 G,Sedan,2022,51122,CVT,Hybrid,1.8,,False,Japan,Melaka,3,136000,82510.83
+BMW,IX,xDrive40,Suv,2023,58247,Automatic,Electric,,76.6,,Germany,Terengganu,2,385000,159055.06
+Volkswagen,Tiguan,2.0 R-Line,Suv,2018,199184,DCT,Petrol,2.0,,True,Germany,Kedah,2,260000,78934.65
+Toyota,Vios,1.5 G,Sedan,2017,148529,CVT,Hybrid,1.5,,False,Japan,Selangor,4,95000,45045.78
+Honda,CR-V,1.5 TC-P,Suv,2024,23205,CVT,Hybrid,1.5,,True,Japan,Penang,4,180000,124039.33
+Toyota,Vios,GR-S,Sedan,2024,23089,CVT,Petrol,1.5,,False,Japan,Terengganu,3,100000,68932.71
+Tesla,Model 3,Long Range AWD,Sedan,2024,100033,Automatic,Electric,,75.0,,USA,Selangor,3,250000,110593.89
+Perodua,Ativa,1.0 Turbo X,Suv,2023,55035,CVT,Hybrid,1.0,,True,Malaysia,Selangor,5,72000,48419.75
+Proton,X70,Executive,Suv,2019,73721,DCT,Hybrid,1.5,,True,Malaysia,Melaka,2,123000,51498.27
+Mercedes,A-Class,A200 Progressive,Hatchback,2021,72471,Automatic,Petrol,1.3,,True,Germany,Johor,5,230000,91814.51
+Proton,X70,Executive,Suv,2024,12002,DCT,Petrol,1.5,,True,Malaysia,Melaka,4,123000,80042.02
+Proton,X50,Flagship,Suv,2023,45966,DCT,Hybrid,1.5,,True,Malaysia,Kedah,2,113000,64246.1
+Toyota,Vios,1.5 E,Sedan,2023,28643,Automatic,Petrol,1.5,,False,Japan,Kedah,5,90000,58598.16
+BMW,3 Series,330i,Sedan,2017,156721,Automatic,Petrol,2.0,,True,Germany,Perak,3,290000,91284.78
+Perodua,Axia,1.0 AV,Hatchback,2019,133832,Manual,Petrol,1.0,,False,Malaysia,Melaka,4,49000,22677.1
+Perodua,Bezza,1.0 G,Sedan,2016,180784,CVT,Petrol,1.0,,False,Malaysia,Perlis,3,43000,18891.85
+Perodua,Bezza,1.3 AV,Sedan,2022,40051,CVT,Petrol,1.3,,False,Malaysia,Selangor,4,55000,39155.69
+Volkswagen,Tiguan,1.4 TSI Highline,Suv,2024,23194,DCT,Petrol,1.4,,True,Germany,Perak,5,175000,106238.1
+Volkswagen,Golf,GTI,Hatchback,2017,151628,DCT,Petrol,2.0,,True,Germany,Pahang,3,220000,76097.78
+BMW,5 Series,520i,Sedan,2021,69219,Automatic,Petrol,2.0,,True,Germany,Terengganu,3,330000,116109.14
+Proton,X50,Flagship,Suv,2016,121679,DCT,Hybrid,1.5,,True,Malaysia,Penang,3,113000,43351.56
+BMW,3 Series,320i,Sedan,2023,25268,Automatic,Petrol,2.0,,True,Germany,Perak,2,250000,114575.76
+Honda,CR-V,1.5 TC-P,Suv,2022,25732,CVT,Petrol,1.5,,True,Japan,Perlis,4,180000,108835.19
+Mercedes,C-Class,C300 AMG Line,Sedan,2019,106416,Automatic,Petrol,2.0,,True,Germany,Terengganu,3,330000,112960.28
+BMW,5 series(D),520d,Sedan,2024,15899,Automatic,Diesel,2.0,,True,Germany,Penang,5,330000,166726.29
+Honda,City,1.5 S,Sedan,2020,100663,CVT,Petrol,1.5,,False,Japan,Kedah,4,84000,45170.6
+Perodua,Myvi,1.5 AV,Hatchback,2024,9687,CVT,Petrol,1.5,,False,Malaysia,Terengganu,4,59000,42589.08
+Volkswagen,Golf,GTI,Hatchback,2016,171101,DCT,Petrol,2.0,,True,Germany,Terengganu,4,220000,72102.25
+Perodua,Axia,1.0 G,Hatchback,2019,102362,CVT,Petrol,1.0,,False,Malaysia,Terengganu,3,38000,19129.45
+Toyota,Corolla,1.8 E,Sedan,2021,112661,CVT,Hybrid,1.8,,False,Japan,Selangor,3,128000,57386.2
+Toyota,Vios,1.5 G,Sedan,2017,170236,Automatic,Hybrid,1.5,,False,Japan,Negeri Sembilan,3,95000,39382.25
+Tesla,Model 3,RWD,Sedan,2024,65233,Automatic,Electric,,57.5,,USA,Penang,5,190000,84592.95
+Mazda,Mazda3,2.0 Sedan,Sedan,2021,95563,Automatic,Petrol,2.0,,False,Japan,Melaka,5,143000,77063.59
+Volkswagen,Tiguan,1.4 TSI Highline,Suv,2017,216261,DCT,Petrol,1.4,,True,Germany,Penang,4,175000,57818.45
+BYD,Seal,Premium,Sedan,2024,72493,Automatic,Electric,,82.5,,China,Selangor,4,230000,127567.91
+Proton,Persona,Executive,Sedan,2024,15435,CVT,Petrol,1.6,,False,Malaysia,Perlis,2,52000,29629.02
+BMW,5 series(D),520d,Sedan,2023,60289,Automatic,Diesel,2.0,,True,Germany,Selangor,3,330000,137783.58
+Honda,City,1.5 S,Sedan,2020,74924,CVT,Petrol,1.5,,False,Japan,Johor,4,84000,38608.95
+Proton,X50,Standard,Suv,2017,180584,DCT,Petrol,1.5,,True,Malaysia,Johor,5,89000,36629.2
+Mercedes,C-Class,C300 AMG Line,Sedan,2018,209580,Automatic,Petrol,2.0,,True,Germany,Perlis,2,330000,92967.13
+Proton,Persona,Standard,Sedan,2022,65547,Manual,Petrol,1.6,,False,Malaysia,Pahang,4,47000,24808.48
+BMW,5 Series,520i,Sedan,2018,121317,Automatic,Petrol,2.0,,True,Germany,Perak,3,330000,110157.97
+Volkswagen,Tiguan,2.0 R-Line,Suv,2019,95607,DCT,Petrol,2.0,,True,Germany,Pahang,3,260000,96002.39
+BYD,Seal,Performance AWD,Sedan,2023,26159,Automatic,Electric,,82.5,,China,Penang,5,260000,163174.76
+BYD,Atto 3,Standard Range,Suv,2023,49171,Automatic,Electric,,49.9,,China,Melaka,3,150000,59890.83
+BMW,5 series(D),520d,Sedan,2019,57822,Automatic,Diesel,2.0,,True,Germany,Kelantan,4,330000,131852.66
+Mazda,Mazda3,2.0 Liftback,Sedan,2019,110703,Automatic,Petrol,2.0,,False,Japan,Selangor,3,150000,65884.6
+Toyota,Vios,GR-S,Sedan,2017,185291,Automatic,Hybrid,1.5,,False,Japan,Kuala Lumpur,4,100000,41311.44
+BYD,Seal,Premium,Sedan,2023,125943,Automatic,Electric,,82.5,,China,Kelantan,3,230000,92073.89
+Tesla,Model Y,RWD,Suv,2024,43178,Automatic,Electric,,60.0,,USA,Kedah,2,210000,97245.6
+BMW,3 Series,330i,Sedan,2016,90008,Automatic,Petrol,2.0,,True,Germany,Pahang,3,290000,81698.22
+BYD,Atto 3,Standard Range,Suv,2024,121277,Automatic,Electric,,49.9,,China,Perlis,4,150000,53317.71
+BMW,3 Series,320i,Sedan,2022,66959,Automatic,Petrol,2.0,,True,Germany,Selangor,2,250000,88526.47
+Mercedes,A-Class,A200 Progressive,Hatchback,2024,8950,Automatic,Petrol,1.3,,True,Germany,Selangor,1,230000,117289.26
+Perodua,Ativa,1.0 Turbo AV,Suv,2022,22352,CVT,Petrol,1.0,,True,Malaysia,Selangor,3,82000,57457.12
+Nissan,X-Trail,2.0 2WD,Suv,2022,40318,CVT,Petrol,2.0,,False,Japan,Kedah,5,145000,73542.16
+BYD,Atto 3,Standard Range,Suv,2022,71639,Automatic,Electric,,49.9,,China,Pahang,3,150000,61901.91
+BMW,IX1,eDrive20,Suv,2023,23542,Automatic,Electric,,64.7,,Germany,Perlis,5,250800,114233.62
+Perodua,Axia,1.0 AV,Hatchback,2022,30979,CVT,Petrol,1.0,,False,Malaysia,Pahang,3,49000,30844.35
+Mercedes,C-Class,C200 Avantgarde,Sedan,2024,7638,Automatic,Petrol,2.0,,True,Germany,Kuala Lumpur,3,290000,147212.64
+Toyota,Corolla,1.8 E,Sedan,2019,58840,CVT,Petrol,1.8,,False,Japan,Kuala Lumpur,3,128000,59282.6
+Toyota,Corolla,1.8 E,Sedan,2022,33243,CVT,Petrol,1.8,,False,Japan,Johor,1,128000,72315.51
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2021,60810,Automatic,Petrol,1.5,,False,Japan,Terengganu,3,105000,54941.17
+Tesla,Model Y,Performance,Suv,2024,3547,Automatic,Electric,,75.0,,USA,Penang,3,280000,180309.21
+BMW,IX,xDrive40,Suv,2024,144542,Automatic,Electric,,76.6,,Germany,Melaka,2,385000,146482.21
+Mazda,CX-5,2.0 2WD,Suv,2024,17969,Automatic,Diesel,2.0,,False,Japan,Negeri Sembilan,3,150000,77680.25
+BYD,Atto 3,Standard Range,Suv,2023,126543,Automatic,Electric,,49.9,,China,Kedah,4,150000,54893.16
+BMW,3 Series,320i,Sedan,2022,61292,Automatic,Petrol,2.0,,True,Germany,Perak,4,250000,110678.85
+Tesla,Model 3,RWD,Sedan,2022,98869,Automatic,Electric,,57.5,,USA,Terengganu,5,190000,74339.95
+Proton,Saga,Standard,Sedan,2019,112248,CVT,Petrol,1.3,,False,Malaysia,Penang,2,34000,14385.67
+BMW,IX,xDrive50,Suv,2024,41777,Automatic,Electric,,111.5,,Germany,Kuala Lumpur,3,490000,265429.47
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2024,17245,Automatic,Petrol,1.5,,False,Japan,Johor,3,105000,57229.67
+Tesla,Model 3,Long Range AWD,Sedan,2022,24680,Automatic,Electric,,75.0,,USA,Kuala Lumpur,4,250000,128504.2
+BMW,5 series(D),520d,Sedan,2022,20076,Automatic,Diesel,2.0,,True,Germany,Penang,4,330000,138129.62
+BMW,5 Series,520i,Sedan,2024,15900,Automatic,Petrol,2.0,,True,Germany,Penang,1,330000,137160.98
+BMW,5 Series,520,Sedan,2023,57330,Automatic,Petrol,2.0,,True,Germany,Perak,3,330000,141023.45
+Nissan,X-Trail,2.0 2WD,Suv,2023,46068,CVT,Hybrid,2.0,,False,Japan,Terengganu,4,145000,60844.56
+BMW,3 Series,320i,Sedan,2019,117281,Automatic,Petrol,2.0,,True,Germany,Perlis,2,250000,74260.78
+Proton,X70,Premium,Suv,2016,217834,DCT,Petrol,1.5,,True,Malaysia,Kelantan,2,140000,48655.53
+Tesla,Model 3,RWD,Sedan,2024,24550,Automatic,Electric,,57.5,,USA,Pahang,5,190000,117554.26
+Proton,Emas7,Premium,Suv,2022,75501,Automatic,Electric,,60.22,,Malaysia,Kelantan,2,119800,60320.1
+Mercedes,C-Class,C200 Avantgarde,Sedan,2022,46683,Automatic,Petrol,2.0,,True,Germany,Perlis,3,290000,139220.93
+BMW,5 Series,520,Sedan,2020,104520,Automatic,Petrol,2.0,,True,Germany,Negeri Sembilan,1,330000,116221.37
+Proton,X50,Standard,Suv,2017,86672,DCT,Petrol,1.5,,True,Malaysia,Perlis,5,89000,42132.58
+Volkswagen,Golf,1.4 TSI,Hatchback,2021,97156,DCT,Petrol,1.4,,True,Germany,Melaka,5,155000,62865.9
+BMW,IX,xDrive50,Suv,2022,66971,Automatic,Electric,,111.5,,Germany,Terengganu,5,490000,252874.8
+Mazda,Mazda3,2.0 Liftback,Sedan,2018,99121,Automatic,Petrol,2.0,,False,Japan,Melaka,5,150000,63816.43
+Volkswagen,Passat,2.0 Highline,Sedan,2019,110186,DCT,Petrol,2.0,,True,Germany,Penang,3,200000,74657.76
+Toyota,Corolla,1.8 E,Sedan,2016,198033,Automatic,Petrol,1.8,,False,Japan,Selangor,5,128000,48724.67
+BMW,IX1,eDrive20,Suv,2023,93920,Automatic,Electric,,64.7,,Germany,Penang,3,250800,86327.43
+Proton,X50,Standard,Suv,2016,169897,DCT,Petrol,1.5,,True,Malaysia,Selangor,3,89000,32367.08
+Mazda,Mazda3,2.0 Liftback,Sedan,2016,112501,Automatic,Petrol,2.0,,False,Japan,Johor,4,150000,54528.6
+Nissan,X-Trail,2.5 4WD,Suv,2016,133053,CVT,Petrol,2.5,,False,Japan,Negeri Sembilan,3,170000,53632.67
+BYD,Atto 3,Standard Range,Suv,2024,113411,Automatic,Electric,,49.9,,China,Penang,4,150000,51932.08
+BMW,5 Series,520i,Sedan,2023,67810,Automatic,Petrol,2.0,,True,Germany,Perak,3,330000,139517.78
+Proton,X70,Premium,Suv,2020,77121,DCT,Hybrid,1.5,,True,Malaysia,Melaka,3,140000,68537.54
+Tesla,Model 3,Long Range AWD,Sedan,2022,45429,Automatic,Electric,,75.0,,USA,Penang,3,250000,118823.32
+Toyota,Camry,2.5 V,Sedan,2022,22262,CVT,Petrol,2.5,,False,Japan,Pahang,2,220000,154564.79
+BYD,Atto 3,Standard Range,Suv,2022,68979,Automatic,Electric,,49.9,,China,Perlis,3,150000,57132.42
+Volkswagen,Tiguan,1.4 TSI Highline,Suv,2022,49167,DCT,Petrol,1.4,,True,Germany,Selangor,3,175000,88520.5
+Nissan,X-Trail,2.0 2WD,Suv,2024,17687,CVT,Hybrid,2.0,,False,Japan,Terengganu,3,145000,66151.17
+BMW,3 Series,320i,Sedan,2018,93066,Automatic,Petrol,2.0,,True,Germany,Negeri Sembilan,4,250000,81033.62
+Nissan,X-Trail,2.5 4WD,Suv,2016,216192,CVT,Petrol,2.5,,False,Japan,Kedah,3,170000,48785.13
+Tesla,Model 3,Long Range AWD,Sedan,2024,117790,Automatic,Electric,,75.0,,USA,Perlis,4,250000,108515.95
+Proton,Persona,Executive,Sedan,2020,84840,Automatic,Petrol,1.6,,False,Malaysia,Terengganu,4,52000,25724.44
+Proton,X70,Premium,Suv,2017,118436,DCT,Petrol,1.5,,True,Malaysia,Selangor,3,140000,52605.61
+Honda,Civic,1.5 E Turbo,Sedan,2024,23729,CVT,Petrol,1.5,,True,Japan,Pahang,4,130000,83602.46
+BMW,IX1,xDrive30,Suv,2023,37163,Automatic,Electric,,64.7,,Germany,Perak,3,275800,112650.49
+Volkswagen,Tiguan,2.0 R-Line,Suv,2016,186051,DCT,Petrol,2.0,,True,Germany,Pahang,1,260000,73208.15
+Mercedes,C-Class,C300 AMG Line,Sedan,2021,105326,Automatic,Petrol,2.0,,True,Germany,Kuala Lumpur,2,330000,117155.54
+BYD,Seal,Premium,Sedan,2024,127037,Automatic,Electric,,82.5,,China,Perlis,3,230000,110516.37
+Proton,Saga,Premium,Sedan,2023,51192,Automatic,Petrol,1.3,,False,Malaysia,Terengganu,3,41000,22813.25
+BMW,5 Series,520,Sedan,2021,137313,Automatic,Petrol,2.0,,True,Germany,Kedah,3,330000,126921.33
+Toyota,Camry,2.0 E,Sedan,2020,98546,Automatic,Hybrid,2.0,,False,Japan,Johor,3,190000,84636.35
+Toyota,Corolla,1.8 E,Sedan,2022,39390,Automatic,Hybrid,1.8,,False,Japan,Kelantan,4,128000,81210.86
+Proton,Persona,Executive,Sedan,2017,183077,CVT,Petrol,1.6,,False,Malaysia,Kuala Lumpur,3,52000,18683.14
+Perodua,Ativa,1.0 Turbo X,Suv,2022,49010,CVT,Petrol,1.0,,True,Malaysia,Negeri Sembilan,3,72000,49094.71
+Toyota,Corolla,1.8 E,Sedan,2024,20027,Automatic,Hybrid,1.8,,False,Japan,Melaka,3,128000,83960.05
+Proton,X70,Executive,Suv,2017,186968,DCT,Petrol,1.5,,True,Malaysia,Kuala Lumpur,3,123000,48084.43
+Volkswagen,Golf,GTI,Hatchback,2021,59620,DCT,Petrol,2.0,,True,Germany,Melaka,3,220000,99648.0
+Proton,Emas7,Premium,Suv,2024,147087,Automatic,Electric,,60.22,,Malaysia,Pahang,3,119800,56204.93
+Toyota,Vios,GR-S,Sedan,2016,209097,Automatic,Hybrid,1.5,,False,Japan,Perlis,4,100000,37827.58
+BMW,IX1,xDrive30,Suv,2023,65097,Automatic,Electric,,64.7,,Germany,Terengganu,3,275800,115727.1
+BMW,5 Series,520i,Sedan,2019,97024,Automatic,Petrol,2.0,,True,Germany,Pahang,4,330000,108185.57
+Perodua,Myvi,1.3 G,Hatchback,2020,96800,CVT,Petrol,1.3,,False,Malaysia,Perak,4,49000,25605.18
+Mercedes,C-Class,C200 Avantgarde,Sedan,2024,14206,Automatic,Petrol,2.0,,True,Germany,Kedah,3,290000,165667.06
+Mazda,CX-5,2.0 2WD,Suv,2019,84023,Automatic,Petrol,2.0,,False,Japan,Pahang,3,150000,58402.19
+Nissan,Almera,1.0 VL Turbo,Sedan,2020,57097,CVT,Petrol,1.0,,True,Japan,Melaka,5,85000,37013.13
+Toyota,Vios,1.5 G,Sedan,2017,198671,CVT,Hybrid,1.5,,False,Japan,Selangor,3,95000,37092.74
+Toyota,Corolla,1.8 E,Sedan,2021,76870,Automatic,Hybrid,1.8,,False,Japan,Perlis,4,128000,73538.97
+BMW,3 Series,330i,Sedan,2021,122886,Automatic,Petrol,2.0,,True,Germany,Perlis,4,290000,102326.87
+Nissan,X-Trail,2.0 2WD,Suv,2022,61782,CVT,Hybrid,2.0,,False,Japan,Kelantan,4,145000,64281.64
+BMW,IX1,xDrive30,Suv,2023,32413,Automatic,Electric,,64.7,,Germany,Kuala Lumpur,4,275800,126164.35
+BMW,IX,xDrive50,Suv,2023,29169,Automatic,Electric,,111.5,,Germany,Terengganu,4,490000,292582.99
+Volkswagen,Golf,1.4 TSI,Hatchback,2018,214520,DCT,Petrol,1.4,,True,Germany,Kuala Lumpur,4,155000,42464.39
+Mercedes,C-Class,C200 Avantgarde,Sedan,2016,95356,Automatic,Petrol,2.0,,True,Germany,Selangor,3,290000,80200.9
+Volkswagen,Golf,R,Hatchback,2017,97467,DCT,Petrol,2.0,,True,Germany,Kedah,2,300000,117630.93
+Toyota,Camry,2.0 E,Sedan,2023,37835,Automatic,Petrol,2.0,,False,Japan,Penang,3,190000,117119.07
+Tesla,Model 3,RWD,Sedan,2023,87171,Automatic,Electric,,57.5,,USA,Pahang,3,190000,83266.59
+Proton,X70,Executive,Suv,2024,22124,DCT,Petrol,1.5,,True,Malaysia,Melaka,3,123000,78025.0
+Proton,X70,Premium,Suv,2019,89154,DCT,Petrol,1.5,,True,Malaysia,Penang,4,140000,62219.61
+BMW,3 Series,330i,Sedan,2020,60878,Automatic,Petrol,2.0,,True,Germany,Melaka,4,290000,121004.28
+Honda,Civic,1.5 E Turbo,Sedan,2024,19575,CVT,Petrol,1.5,,True,Japan,Kuala Lumpur,3,130000,82630.5
+Mercedes,C-Class,C300 AMG Line,Sedan,2020,89255,Automatic,Petrol,2.0,,True,Germany,Kuala Lumpur,3,330000,119453.17
+Nissan,Almera,1.0 VLT Turbo,Sedan,2018,206685,Automatic,Petrol,1.0,,True,Japan,Kedah,4,95000,30628.06
+Mercedes,A-Class,A200 Progressive,Hatchback,2022,32177,Automatic,Petrol,1.3,,True,Germany,Kedah,3,230000,105851.45
+BMW,5 Series,520,Sedan,2021,81526,Automatic,Petrol,2.0,,True,Germany,Selangor,5,330000,143496.76
+Mazda,CX-5,2.5 Turbo,Suv,2024,5852,Automatic,Petrol,2.5,,True,Japan,Kelantan,5,195000,134521.68
+Proton,X50,Standard,Suv,2021,73905,DCT,Hybrid,1.5,,True,Malaysia,Perlis,5,89000,43744.6
+Proton,Persona,Premium,Sedan,2020,103140,Automatic,Petrol,1.6,,False,Malaysia,Kuala Lumpur,2,58000,26311.99
+Toyota,Corolla,2.0 Hybrid,Sedan,2017,90900,CVT,Petrol,2.0,,False,Japan,Penang,3,150000,80048.01
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2023,65976,Automatic,Petrol,1.5,,False,Japan,Johor,3,105000,51076.74
+Proton,X50,Standard,Suv,2018,160398,DCT,Petrol,1.5,,True,Malaysia,Perlis,4,89000,37356.6
+BMW,IX1,xDrive30,Suv,2024,140364,Automatic,Electric,,64.7,,Germany,Negeri Sembilan,5,275800,103312.63
+Mercedes,A-Class,A250 AMG Line,Hatchback,2022,63995,Automatic,Petrol,2.0,,True,Germany,Negeri Sembilan,3,270000,125355.37
+Mazda,Mazda3,2.0 Liftback,Sedan,2020,108849,Automatic,Petrol,2.0,,False,Japan,Selangor,3,150000,58357.35
+Perodua,Axia,1.0 AV,Hatchback,2019,59061,Automatic,Petrol,1.0,,False,Malaysia,Melaka,4,49000,28509.2
+BYD,Atto 3,Standard Range,Suv,2023,42598,Automatic,Electric,,49.9,,China,Pahang,3,150000,71374.5
+Proton,X50,Standard,Suv,2022,68886,DCT,Hybrid,1.5,,True,Malaysia,Perlis,3,89000,43418.63
+Perodua,Myvi,1.5 AV,Hatchback,2018,176694,Automatic,Petrol,1.5,,False,Malaysia,Kelantan,4,59000,27560.22
+BMW,3 Series,330i,Sedan,2022,68452,Automatic,Petrol,2.0,,True,Germany,Kelantan,4,290000,131464.19
+Honda,Civic,1.5 E Turbo,Sedan,2022,53718,CVT,Petrol,1.5,,True,Japan,Terengganu,3,130000,72456.33
+BYD,Seal,Premium,Sedan,2023,121761,Automatic,Electric,,82.5,,China,Perak,3,230000,98244.41
+Mazda,CX-5,2.5 Turbo,Suv,2018,178248,Automatic,Petrol,2.5,,True,Japan,Terengganu,3,195000,72362.62
+BMW,IX,xDrive50,Suv,2023,5051,Automatic,Electric,,111.5,,Germany,Selangor,4,490000,258809.14
+Tesla,Model Y,RWD,Suv,2024,69735,Automatic,Electric,,60.0,,USA,Johor,4,210000,93478.91
+Honda,City,1.5 S,Sedan,2019,62892,CVT,Hybrid,1.5,,False,Japan,Pahang,4,84000,45490.96
+Proton,X50,Standard,Suv,2021,75238,DCT,Petrol,1.5,,True,Malaysia,Melaka,5,89000,47426.95
+Toyota,Vios,GR-S,Sedan,2022,64519,Automatic,Petrol,1.5,,False,Japan,Perak,3,100000,64036.94
+Volkswagen,Tiguan,2.0 R-Line,Suv,2021,59487,DCT,Petrol,2.0,,True,Germany,Kelantan,4,260000,122919.42
+Toyota,Corolla,1.8 G,Sedan,2020,55434,CVT,Petrol,1.8,,False,Japan,Kedah,3,136000,77751.95
+Proton,Persona,Premium,Sedan,2024,14761,Manual,Petrol,1.6,,False,Malaysia,Negeri Sembilan,4,58000,34965.45
+Perodua,Ativa,1.0 Turbo AV,Suv,2017,144658,CVT,Hybrid,1.0,,True,Malaysia,Kelantan,3,82000,37335.95
+Proton,Persona,Standard,Sedan,2023,42672,Automatic,Petrol,1.6,,False,Malaysia,Kelantan,3,47000,25920.64
+Honda,Civic,1.5 E Turbo,Sedan,2024,11094,CVT,Petrol,1.5,,True,Japan,Kedah,4,130000,80154.52
+Volkswagen,Tiguan,2.0 R-Line,Suv,2024,21715,DCT,Petrol,2.0,,True,Germany,Selangor,3,260000,147599.72
+Mazda,CX-5,2.5 Turbo,Suv,2018,181888,Automatic,Petrol,2.5,,True,Japan,Penang,3,195000,66980.73
+Proton,X50,Standard,Suv,2021,73984,DCT,Hybrid,1.5,,True,Malaysia,Negeri Sembilan,4,89000,39357.12
+Proton,X70,Executive,Suv,2018,166298,DCT,Hybrid,1.5,,True,Malaysia,Selangor,3,123000,44836.17
+Toyota,Corolla,1.8 G,Sedan,2018,121198,Automatic,Hybrid,1.8,,False,Japan,Kuala Lumpur,3,136000,61956.11
+BYD,Seal,Performance AWD,Sedan,2024,59132,Automatic,Electric,,82.5,,China,Selangor,3,260000,144815.36
+Toyota,Corolla,1.8 E,Sedan,2024,22797,Automatic,Petrol,1.8,,False,Japan,Perak,5,128000,98911.05
+BYD,Atto 3,Standard Range,Suv,2022,149744,Automatic,Electric,,49.9,,China,Kedah,3,150000,47443.23
+Perodua,Bezza,1.0 G,Sedan,2017,158264,CVT,Petrol,1.0,,False,Malaysia,Negeri Sembilan,4,43000,18742.05
+Nissan,Almera,1.0 VL Turbo,Sedan,2020,67584,Automatic,Petrol,1.0,,True,Japan,Negeri Sembilan,3,85000,37797.27
+BYD,Atto 3,Extended Range,Suv,2023,41503,Automatic,Electric,,60.5,,China,Selangor,4,170000,79748.67
+BYD,Seal,Performance AWD,Sedan,2022,46456,Automatic,Electric,,82.5,,China,Melaka,3,260000,140858.62
+BMW,IX1,eDrive20,Suv,2022,95559,Automatic,Electric,,64.7,,Germany,Melaka,4,250800,97427.92
+Volkswagen,Passat,1.8 Comfortline,Sedan,2023,63784,DCT,Petrol,1.8,,True,Germany,Kelantan,4,180000,81091.01
+Honda,City,1.5 RS e:HEV,Sedan,2021,50416,CVT,Hybrid,1.5,,False,Japan,Penang,3,109000,55849.31
+BMW,IX1,xDrive30,Suv,2024,51764,Automatic,Electric,,64.7,,Germany,Perlis,3,275800,124177.43
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2018,172437,Automatic,Petrol,1.5,,False,Japan,Perlis,4,105000,41811.13
+Proton,Saga,Premium,Sedan,2022,35552,Automatic,Petrol,1.3,,False,Malaysia,Johor,2,41000,20022.91
+BYD,Seal,Premium,Sedan,2024,17567,Automatic,Electric,,82.5,,China,Melaka,4,230000,146009.22
+Honda,CR-V,2.0 2WD,Suv,2018,206170,CVT,Petrol,2.0,,False,Japan,Perlis,3,155000,56239.69
+Perodua,Bezza,1.3 AV,Sedan,2021,137183,Automatic,Petrol,1.3,,False,Malaysia,Kuala Lumpur,2,55000,24384.1
+Volkswagen,Golf,GTI,Hatchback,2021,78480,DCT,Petrol,2.0,,True,Germany,Negeri Sembilan,4,220000,86200.08
+Perodua,Myvi,1.5 H,Hatchback,2020,79730,Automatic,Petrol,1.5,,False,Malaysia,Pahang,3,54000,27904.94
+Proton,Persona,Standard,Sedan,2018,211133,Automatic,Petrol,1.6,,False,Malaysia,Kelantan,1,47000,16579.31
+BMW,3 Series,320i,Sedan,2022,47134,Automatic,Petrol,2.0,,True,Germany,Perak,2,250000,107743.56
+BMW,5 series(D),520d,Sedan,2024,10828,Automatic,Diesel,2.0,,True,Germany,Selangor,4,330000,154167.36
+Nissan,Almera,1.0 VL Turbo,Sedan,2022,38305,CVT,Petrol,1.0,,True,Japan,Pahang,5,85000,44284.82
+Proton,Persona,Premium,Sedan,2018,94917,CVT,Petrol,1.6,,False,Malaysia,Kedah,4,58000,26771.16
+Mazda,CX-5,2.5 Turbo,Suv,2020,127655,Automatic,Petrol,2.5,,True,Japan,Penang,3,195000,92358.26
+Volkswagen,Golf,R,Hatchback,2021,95983,DCT,Petrol,2.0,,True,Germany,Kuala Lumpur,5,300000,141710.62
+Proton,Emas7,Premium,Suv,2024,95676,Automatic,Electric,,60.22,,Malaysia,Negeri Sembilan,4,119800,54922.7
+Toyota,Vios,1.5 G,Sedan,2024,14790,CVT,Petrol,1.5,,False,Japan,Johor,2,95000,71083.32
+Perodua,Bezza,1.0 G,Sedan,2022,68424,Automatic,Petrol,1.0,,False,Malaysia,Selangor,5,43000,26526.22
+Tesla,Model Y,Performance,Suv,2023,11706,Automatic,Electric,,75.0,,USA,Perak,4,280000,159492.45
+Tesla,Model Y,Performance,Suv,2024,10204,Automatic,Electric,,75.0,,USA,Kuala Lumpur,3,280000,170642.59
+Volkswagen,Passat,1.8 Comfortline,Sedan,2016,167989,DCT,Petrol,1.8,,True,Germany,Melaka,2,180000,53178.05
+BMW,IX1,xDrive30,Suv,2024,51898,Automatic,Electric,,64.7,,Germany,Perak,5,275800,131854.77
+Perodua,Ativa,1.0 Turbo AV,Suv,2020,89634,CVT,Hybrid,1.0,,True,Malaysia,Kuala Lumpur,2,82000,40385.4
+Proton,Saga,Standard,Sedan,2016,172842,Manual,Petrol,1.3,,False,Malaysia,Kuala Lumpur,3,34000,10645.57
+Tesla,Model Y,RWD,Suv,2024,111494,Automatic,Electric,,60.0,,USA,Kelantan,5,210000,104537.94
+Proton,Persona,Executive,Sedan,2021,110764,CVT,Petrol,1.6,,False,Malaysia,Terengganu,5,52000,29556.1
+BMW,IX1,xDrive30,Suv,2024,58708,Automatic,Electric,,64.7,,Germany,Johor,4,275800,108842.2
+Perodua,Ativa,1.0 Turbo AV,Suv,2021,108414,CVT,Hybrid,1.0,,True,Malaysia,Johor,3,82000,43619.1
+BMW,IX1,eDrive20,Suv,2023,10034,Automatic,Electric,,64.7,,Germany,Terengganu,5,250800,130935.59
+Proton,X50,Flagship,Suv,2022,20673,DCT,Petrol,1.5,,True,Malaysia,Kedah,3,113000,73022.37
+Proton,X50,Standard,Suv,2016,219534,DCT,Hybrid,1.5,,True,Malaysia,Kedah,3,89000,27579.39
+Proton,Saga,Premium,Sedan,2020,61254,Automatic,Petrol,1.3,,False,Malaysia,Kedah,4,41000,22137.71
+Perodua,Bezza,1.3 AV,Sedan,2019,127653,Automatic,Petrol,1.3,,False,Malaysia,Kelantan,4,55000,24903.28
+Honda,City,1.5 RS e:HEV,Sedan,2019,118491,CVT,Petrol,1.5,,False,Japan,Johor,3,109000,48580.66
+BMW,IX,xDrive40,Suv,2023,29505,Automatic,Electric,,76.6,,Germany,Pahang,3,385000,174309.0
+Perodua,Ativa,1.0 Turbo X,Suv,2018,141231,CVT,Petrol,1.0,,True,Malaysia,Kelantan,2,72000,36059.02
+BMW,5 Series,520i,Sedan,2018,136826,Automatic,Petrol,2.0,,True,Germany,Terengganu,3,330000,108726.15
+Nissan,X-Trail,2.0 2WD,Suv,2024,17606,CVT,Petrol,2.0,,False,Japan,Kedah,3,145000,84693.06
+Tesla,Model Y,RWD,Suv,2022,112065,Automatic,Electric,,60.0,,USA,Negeri Sembilan,2,210000,86465.54
+Toyota,Camry,2.0 E,Sedan,2022,62397,Automatic,Hybrid,2.0,,False,Japan,Perak,5,190000,109590.12
+BMW,5 Series,520i,Sedan,2016,149273,Automatic,Petrol,2.0,,True,Germany,Perlis,4,330000,92362.14
+Volkswagen,Tiguan,1.4 TSI Highline,Suv,2018,197167,DCT,Petrol,1.4,,True,Germany,Perak,2,175000,58918.82
+Tesla,Model 3,Long Range AWD,Sedan,2023,78255,Automatic,Electric,,75.0,,USA,Melaka,3,250000,104731.8
+Proton,Emas7,Premium,Suv,2022,25724,Automatic,Electric,,60.22,,Malaysia,Kuala Lumpur,3,119800,56176.8
+Honda,City,1.5 RS e:HEV,Sedan,2020,100631,CVT,Hybrid,1.5,,False,Japan,Kelantan,1,109000,48076.76
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2021,88696,Automatic,Petrol,1.5,,False,Japan,Negeri Sembilan,4,105000,47573.96
+Proton,Emas7,Prime,Suv,2023,134352,Automatic,Electric,,49.52,,Malaysia,Perlis,2,105800,46391.23
+Mazda,Mazda3,2.0 Sedan,Sedan,2023,31025,Automatic,Petrol,2.0,,False,Japan,Melaka,5,143000,88639.26
+Mercedes,A-Class,A200 Progressive,Hatchback,2023,30599,Automatic,Petrol,1.3,,True,Germany,Terengganu,5,230000,129224.88
+Proton,Persona,Premium,Sedan,2020,123393,Automatic,Petrol,1.6,,False,Malaysia,Negeri Sembilan,4,58000,27942.83
+BMW,5 Series,520,Sedan,2022,61061,Automatic,Petrol,2.0,,True,Germany,Perlis,3,330000,125868.84
+Mercedes,C-Class,C300 AMG Line,Sedan,2022,22210,Automatic,Petrol,2.0,,True,Germany,Kedah,3,330000,141640.45
+Proton,Emas7,Prime,Suv,2023,147921,Automatic,Electric,,49.52,,Malaysia,Terengganu,4,105800,44068.89
+BYD,Seal,Premium,Sedan,2024,6730,Automatic,Electric,,82.5,,China,Kelantan,5,230000,152887.16
+Volkswagen,Golf,GTI,Hatchback,2019,131689,DCT,Petrol,2.0,,True,Germany,Negeri Sembilan,2,220000,71132.88
+BMW,3 Series,330i,Sedan,2016,131614,Automatic,Petrol,2.0,,True,Germany,Selangor,2,290000,80659.39
+BMW,5 Series,520,Sedan,2018,217072,Automatic,Petrol,2.0,,True,Germany,Terengganu,3,330000,84039.72
+Mazda,Mazda3,2.0 Sedan,Sedan,2024,20346,Automatic,Petrol,2.0,,False,Japan,Kuala Lumpur,5,143000,88546.93
+BYD,Seal,Premium,Sedan,2022,24124,Automatic,Electric,,82.5,,China,Johor,4,230000,129361.65
+Proton,X70,Executive,Suv,2016,198711,DCT,Hybrid,1.5,,True,Malaysia,Selangor,2,123000,40115.61
+Proton,Saga,Premium,Sedan,2017,216343,CVT,Petrol,1.3,,False,Malaysia,Melaka,4,41000,15773.89
+Toyota,Corolla,1.8 G,Sedan,2018,205905,CVT,Petrol,1.8,,False,Japan,Pahang,4,136000,61573.65
+BMW,5 series(D),520d,Sedan,2024,17072,Automatic,Diesel,2.0,,True,Germany,Terengganu,4,330000,174876.65
+Honda,Civic,Type R,Sedan,2023,44663,CVT,Petrol,2.0,,True,Japan,Penang,2,390000,207231.23
+Perodua,Bezza,1.3 AV,Sedan,2023,57284,Automatic,Petrol,1.3,,False,Malaysia,Negeri Sembilan,3,55000,35320.25
+Perodua,Axia,1.0 G,Hatchback,2020,109317,CVT,Petrol,1.0,,False,Malaysia,Kedah,3,38000,18637.04
+Proton,X50,Standard,Suv,2024,13380,DCT,Hybrid,1.5,,True,Malaysia,Perak,4,89000,58057.05
+Proton,Persona,Executive,Sedan,2017,207983,Automatic,Petrol,1.6,,False,Malaysia,Terengganu,4,52000,18939.43
+Mercedes,A-Class,A250 AMG Line,Hatchback,2018,202745,Automatic,Petrol,2.0,,True,Germany,Johor,5,270000,80012.08
+Volkswagen,Golf,R,Hatchback,2024,18467,DCT,Petrol,2.0,,True,Germany,Penang,4,300000,144018.8
+Honda,Civic,Type R,Sedan,2024,14765,CVT,Petrol,2.0,,True,Japan,Pahang,1,390000,242432.74
+BYD,Seal,Performance AWD,Sedan,2022,47165,Automatic,Electric,,82.5,,China,Kedah,5,260000,150697.26
+Nissan,X-Trail,2.5 4WD,Suv,2021,121908,CVT,Hybrid,2.5,,False,Japan,Negeri Sembilan,3,170000,56900.85
+BYD,Seal,Performance AWD,Sedan,2022,88989,Automatic,Electric,,82.5,,China,Perlis,5,260000,120548.01
+BYD,Atto 3,Extended Range,Suv,2023,139381,Automatic,Electric,,60.5,,China,Terengganu,2,170000,59356.17
+Volkswagen,Tiguan,2.0 R-Line,Suv,2021,53575,DCT,Petrol,2.0,,True,Germany,Pahang,4,260000,103750.3
+Perodua,Axia,1.0 AV,Hatchback,2016,216943,Manual,Petrol,1.0,,False,Malaysia,Penang,3,49000,17301.27
+BMW,5 Series,520,Sedan,2021,84386,Automatic,Petrol,2.0,,True,Germany,Kelantan,3,330000,118670.36
+Perodua,Ativa,1.0 Turbo X,Suv,2024,17191,CVT,Hybrid,1.0,,True,Malaysia,Negeri Sembilan,4,72000,55288.11
+Perodua,Bezza,1.0 G,Sedan,2017,214898,Automatic,Petrol,1.0,,False,Malaysia,Johor,4,43000,16859.72
+Honda,CR-V,1.5 TC-P,Suv,2022,46619,CVT,Petrol,1.5,,True,Japan,Kelantan,3,180000,103420.32
+Proton,X50,Flagship,Suv,2019,94496,DCT,Hybrid,1.5,,True,Malaysia,Johor,3,113000,43042.67
+BMW,5 series(D),520d,Sedan,2018,154370,Automatic,Diesel,2.0,,True,Germany,Kuala Lumpur,5,330000,109801.73
+Mazda,Mazda3,2.0 Sedan,Sedan,2021,81433,Automatic,Petrol,2.0,,False,Japan,Kuala Lumpur,3,143000,61038.67
+Nissan,Almera,1.0 VLT Turbo,Sedan,2017,122012,Automatic,Petrol,1.0,,True,Japan,Perlis,1,95000,29753.31
+Mercedes,A-Class,A200 Progressive,Hatchback,2024,13787,Automatic,Petrol,1.3,,True,Germany,Perlis,5,230000,120305.75
+Honda,CR-V,1.5 TC-P,Suv,2024,8506,CVT,Petrol,1.5,,True,Japan,Negeri Sembilan,4,180000,124215.26
+Proton,X70,Executive,Suv,2016,91777,DCT,Hybrid,1.5,,True,Malaysia,Pahang,4,123000,45737.77
+Volkswagen,Golf,GTI,Hatchback,2019,110367,DCT,Petrol,2.0,,True,Germany,Selangor,2,220000,79035.18
+Proton,Persona,Standard,Sedan,2022,50548,CVT,Petrol,1.6,,False,Malaysia,Penang,3,47000,23852.27
+Perodua,Axia,1.0 AV,Hatchback,2022,52343,CVT,Petrol,1.0,,False,Malaysia,Terengganu,4,49000,34848.47
+Tesla,Model Y,Performance,Suv,2024,45159,Automatic,Electric,,75.0,,USA,Kuala Lumpur,3,280000,146300.67
+Proton,Persona,Executive,Sedan,2017,153528,CVT,Petrol,1.6,,False,Malaysia,Terengganu,5,52000,20602.22
+Nissan,Almera,1.0 VL Turbo,Sedan,2023,22145,CVT,Petrol,1.0,,True,Japan,Johor,4,85000,43656.05
+Perodua,Bezza,1.0 G,Sedan,2024,13659,CVT,Petrol,1.0,,False,Malaysia,Negeri Sembilan,3,43000,30597.4
+Honda,Civic,Type R,Sedan,2017,179244,CVT,Petrol,2.0,,True,Japan,Selangor,3,390000,157899.4
+Volkswagen,Golf,R,Hatchback,2018,86806,DCT,Petrol,2.0,,True,Germany,Selangor,4,300000,104496.07
+Mercedes,C-Class,C300 AMG Line,Sedan,2016,205867,Automatic,Petrol,2.0,,True,Germany,Perak,3,330000,79485.63
+Proton,X50,Flagship,Suv,2023,33184,DCT,Petrol,1.5,,True,Malaysia,Kuala Lumpur,4,113000,60158.12
+Nissan,X-Trail,2.0 2WD,Suv,2024,16229,CVT,Hybrid,2.0,,False,Japan,Kedah,3,145000,67191.54
+BYD,Atto 3,Extended Range,Suv,2022,54313,Automatic,Electric,,60.5,,China,Perlis,3,170000,84650.08
+Volkswagen,Passat,1.8 Comfortline,Sedan,2023,45364,DCT,Petrol,1.8,,True,Germany,Kelantan,5,180000,87749.06
+Mazda,CX-5,2.0 2WD,Suv,2018,150363,Automatic,Diesel,2.0,,False,Japan,Melaka,3,150000,55649.69
+Toyota,Corolla,1.8 E,Sedan,2019,70553,Automatic,Hybrid,1.8,,False,Japan,Kelantan,3,128000,64283.56
+Toyota,Corolla,2.0 Hybrid,Sedan,2019,91348,Automatic,Petrol,2.0,,False,Japan,Johor,3,150000,72664.54
+BYD,Seal,Premium,Sedan,2022,74754,Automatic,Electric,,82.5,,China,Selangor,3,230000,99656.12
+BMW,5 series(D),520d,Sedan,2018,145877,Automatic,Diesel,2.0,,True,Germany,Negeri Sembilan,3,330000,95180.6
+Perodua,Bezza,1.3 AV,Sedan,2018,194610,CVT,Petrol,1.3,,False,Malaysia,Melaka,3,55000,23883.4
+Mercedes,A-Class,A200 Progressive,Hatchback,2022,20156,Automatic,Petrol,1.3,,True,Germany,Melaka,5,230000,116317.11
+Mercedes,A-Class,A200 Progressive,Hatchback,2022,33362,Automatic,Petrol,1.3,,True,Germany,Perak,3,230000,95373.56
+BMW,3 Series,320i,Sedan,2022,28073,Automatic,Petrol,2.0,,True,Germany,Kuala Lumpur,3,250000,117961.22
+Volkswagen,Passat,2.0 Highline,Sedan,2023,64404,DCT,Petrol,2.0,,True,Germany,Perak,3,200000,105954.07
+Perodua,Myvi,1.5 H,Hatchback,2019,138502,Automatic,Petrol,1.5,,False,Malaysia,Selangor,3,54000,27294.44
+Tesla,Model Y,Performance,Suv,2023,77478,Automatic,Electric,,75.0,,USA,Kedah,4,280000,119600.11
+Tesla,Model Y,Performance,Suv,2022,64036,Automatic,Electric,,75.0,,USA,Selangor,2,280000,142798.9
+Mercedes,A-Class,A200 Progressive,Hatchback,2016,196335,Automatic,Petrol,1.3,,True,Germany,Johor,4,230000,57122.91
+Mazda,CX-5,2.0 2WD,Suv,2023,63666,Automatic,Diesel,2.0,,False,Japan,Johor,5,150000,82561.87
+Mercedes,A-Class,A250 AMG Line,Hatchback,2024,7520,Automatic,Petrol,2.0,,True,Germany,Negeri Sembilan,4,270000,140558.88
+Toyota,Camry,2.0 E,Sedan,2024,21427,CVT,Hybrid,2.0,,False,Japan,Selangor,3,190000,137336.19
+Tesla,Model Y,RWD,Suv,2024,38510,Automatic,Electric,,60.0,,USA,Johor,3,210000,118486.87
+BYD,Atto 3,Extended Range,Suv,2024,20243,Automatic,Electric,,60.5,,China,Penang,4,170000,98048.91
+Tesla,Model 3,RWD,Sedan,2023,104221,Automatic,Electric,,57.5,,USA,Negeri Sembilan,4,190000,68874.93
+Perodua,Myvi,1.3 G,Hatchback,2022,34619,Automatic,Petrol,1.3,,False,Malaysia,Perlis,4,49000,34364.16
+Volkswagen,Golf,1.4 TSI,Hatchback,2024,24997,DCT,Petrol,1.4,,True,Germany,Kuala Lumpur,4,155000,84461.6
+Perodua,Myvi,1.3 G,Hatchback,2019,62177,Automatic,Petrol,1.3,,False,Malaysia,Johor,4,49000,26597.67
+BMW,IX,xDrive40,Suv,2023,119706,Automatic,Electric,,76.6,,Germany,Penang,4,385000,124451.85
+BMW,IX1,xDrive30,Suv,2023,57396,Automatic,Electric,,64.7,,Germany,Pahang,3,275800,123241.37
+Tesla,Model Y,RWD,Suv,2024,122149,Automatic,Electric,,60.0,,USA,Negeri Sembilan,3,210000,77103.26
+Nissan,Almera,1.0 VL Turbo,Sedan,2020,62750,CVT,Petrol,1.0,,True,Japan,Perak,2,85000,32010.06
+Perodua,Bezza,1.3 AV,Sedan,2022,35118,CVT,Petrol,1.3,,False,Malaysia,Negeri Sembilan,2,55000,35832.36
+Honda,CR-V,2.0 2WD,Suv,2024,14035,CVT,Petrol,2.0,,False,Japan,Kelantan,3,155000,96774.78
+Toyota,Vios,1.5 E,Sedan,2017,131251,CVT,Petrol,1.5,,False,Japan,Kedah,2,90000,45806.58
+Proton,X50,Standard,Suv,2023,56989,DCT,Petrol,1.5,,True,Malaysia,Perak,3,89000,45688.51
+Nissan,Almera,1.0 VL Turbo,Sedan,2019,88061,CVT,Petrol,1.0,,True,Japan,Terengganu,4,85000,33208.78
+Proton,X50,Flagship,Suv,2016,136925,DCT,Petrol,1.5,,True,Malaysia,Kelantan,3,113000,45433.76
+BYD,Atto 3,Standard Range,Suv,2023,60550,Automatic,Electric,,49.9,,China,Selangor,4,150000,58345.72
+BMW,3 Series,320i,Sedan,2022,54223,Automatic,Petrol,2.0,,True,Germany,Pahang,3,250000,116391.74
+Tesla,Model Y,RWD,Suv,2023,138466,Automatic,Electric,,60.0,,USA,Terengganu,3,210000,90114.53
+Toyota,Camry,2.5 V,Sedan,2021,87881,CVT,Petrol,2.5,,False,Japan,Perak,1,220000,132823.21
+Volkswagen,Tiguan,2.0 R-Line,Suv,2023,21956,DCT,Petrol,2.0,,True,Germany,Melaka,4,260000,144116.37
+Proton,X70,Premium,Suv,2020,54450,DCT,Petrol,1.5,,True,Malaysia,Terengganu,3,140000,71127.51
+Proton,Emas7,Prime,Suv,2024,76284,Automatic,Electric,,49.52,,Malaysia,Melaka,3,105800,46064.94
+Honda,Civic,1.5 E Turbo,Sedan,2019,124794,CVT,Petrol,1.5,,True,Japan,Kuala Lumpur,4,130000,53681.63
+Toyota,Camry,2.0 E,Sedan,2023,38862,Automatic,Hybrid,2.0,,False,Japan,Kuala Lumpur,1,190000,117124.42
+Mercedes,C-Class,C300 AMG Line,Sedan,2020,102826,Automatic,Petrol,2.0,,True,Germany,Pahang,4,330000,120596.49
+Mazda,Mazda3,2.0 Sedan,Sedan,2018,132261,Automatic,Petrol,2.0,,False,Japan,Terengganu,3,143000,61174.96
+Mazda,CX-5,2.0 2WD,Suv,2020,112695,Automatic,Diesel,2.0,,False,Japan,Melaka,4,150000,57827.47
+Nissan,Almera,1.0 VLT Turbo,Sedan,2022,64649,CVT,Petrol,1.0,,True,Japan,Selangor,3,95000,45955.1
+BMW,3 Series,320i,Sedan,2024,18249,Automatic,Petrol,2.0,,True,Germany,Kelantan,3,250000,117629.35
+Volkswagen,Passat,1.8 Comfortline,Sedan,2021,126664,DCT,Petrol,1.8,,True,Germany,Melaka,3,180000,70497.49
+Perodua,Myvi,1.3 G,Hatchback,2018,80192,Automatic,Petrol,1.3,,False,Malaysia,Penang,4,49000,23197.33
+Nissan,Almera,1.0 VL Turbo,Sedan,2024,12000,CVT,Petrol,1.0,,True,Japan,Perak,2,85000,44585.8
+BYD,Seal,Performance AWD,Sedan,2023,143543,Automatic,Electric,,82.5,,China,Johor,3,260000,99651.9
+Proton,Emas7,Premium,Suv,2022,144663,Automatic,Electric,,60.22,,Malaysia,Pahang,4,119800,54220.94
+Proton,Persona,Executive,Sedan,2016,194335,CVT,Petrol,1.6,,False,Malaysia,Perlis,4,52000,17927.15
+Nissan,X-Trail,2.0 2WD,Suv,2019,77066,CVT,Petrol,2.0,,False,Japan,Johor,4,145000,48388.3
+Proton,Persona,Executive,Sedan,2022,34884,Automatic,Petrol,1.6,,False,Malaysia,Terengganu,3,52000,29980.44
+Toyota,Camry,2.5 V,Sedan,2023,50660,Automatic,Hybrid,2.5,,False,Japan,Johor,3,220000,133877.39
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2016,106941,Automatic,Petrol,1.5,,False,Japan,Perlis,2,105000,37454.61
+Honda,Civic,1.5 E Turbo,Sedan,2016,137150,CVT,Petrol,1.5,,True,Japan,Kedah,4,130000,56711.71
+Volkswagen,Golf,GTI,Hatchback,2024,16091,DCT,Petrol,2.0,,True,Germany,Kedah,4,220000,123862.66
+BMW,IX1,xDrive30,Suv,2022,78227,Automatic,Electric,,64.7,,Germany,Kedah,1,275800,99216.66
+BYD,Atto 3,Extended Range,Suv,2022,24044,Automatic,Electric,,60.5,,China,Perlis,5,170000,87494.39
+Volkswagen,Passat,1.8 Comfortline,Sedan,2018,209351,DCT,Petrol,1.8,,True,Germany,Terengganu,3,180000,63560.41
+Toyota,Camry,2.0 E,Sedan,2023,56320,CVT,Hybrid,2.0,,False,Japan,Pahang,5,190000,118967.4
+Proton,Persona,Executive,Sedan,2021,137131,Automatic,Petrol,1.6,,False,Malaysia,Terengganu,3,52000,24095.01
+Proton,Persona,Standard,Sedan,2024,10499,Manual,Petrol,1.6,,False,Malaysia,Johor,4,47000,24572.22
+Nissan,Almera,1.0 VL Turbo,Sedan,2019,98995,CVT,Petrol,1.0,,True,Japan,Pahang,3,85000,35044.42
+Mercedes,A-Class,A200 Progressive,Hatchback,2018,174394,Automatic,Petrol,1.3,,True,Germany,Kuala Lumpur,3,230000,62665.76
+BMW,IX1,eDrive20,Suv,2023,123231,Automatic,Electric,,64.7,,Germany,Johor,3,250800,82285.83
+Proton,Saga,Standard,Sedan,2017,193082,Automatic,Petrol,1.3,,False,Malaysia,Terengganu,4,34000,13966.77
+Honda,City,1.5 RS e:HEV,Sedan,2020,114672,CVT,Hybrid,1.5,,False,Japan,Perak,3,109000,49904.56
+Nissan,Almera,1.0 VLT Turbo,Sedan,2020,63154,Automatic,Petrol,1.0,,True,Japan,Kuala Lumpur,3,95000,40004.79
+Honda,City,1.5 RS e:HEV,Sedan,2024,7511,CVT,Petrol,1.5,,False,Japan,Negeri Sembilan,4,109000,79778.67
+Perodua,Ativa,1.0 Turbo AV,Suv,2024,9907,CVT,Petrol,1.0,,True,Malaysia,Perlis,3,82000,64345.47
+Honda,CR-V,2.0 2WD,Suv,2023,64623,CVT,Hybrid,2.0,,False,Japan,Negeri Sembilan,4,155000,95564.91
+Honda,Civic,Type R,Sedan,2024,18913,CVT,Petrol,2.0,,True,Japan,Perak,3,390000,263931.64
+Nissan,Almera,1.0 VLT Turbo,Sedan,2021,89893,Automatic,Petrol,1.0,,True,Japan,Kedah,3,95000,38931.83
+Perodua,Bezza,1.0 G,Sedan,2023,67049,Automatic,Petrol,1.0,,False,Malaysia,Negeri Sembilan,2,43000,23929.31
+BMW,5 Series,520,Sedan,2018,133390,Automatic,Petrol,2.0,,True,Germany,Melaka,4,330000,110494.99
+Perodua,Axia,1.0 G,Hatchback,2023,43044,Manual,Petrol,1.0,,False,Malaysia,Terengganu,4,38000,21544.26
+Perodua,Bezza,1.0 G,Sedan,2018,219477,Automatic,Petrol,1.0,,False,Malaysia,Johor,1,43000,15264.94
+Proton,X50,Standard,Suv,2021,120080,DCT,Petrol,1.5,,True,Malaysia,Kuala Lumpur,3,89000,38200.92
+Tesla,Model Y,RWD,Suv,2023,36523,Automatic,Electric,,60.0,,USA,Melaka,1,210000,94205.74
+Perodua,Ativa,1.0 Turbo AV,Suv,2020,100521,CVT,Petrol,1.0,,True,Malaysia,Perak,3,82000,40469.43
+Perodua,Bezza,1.3 AV,Sedan,2018,83862,CVT,Petrol,1.3,,False,Malaysia,Pahang,4,55000,29946.62
+Nissan,X-Trail,2.5 4WD,Suv,2016,199526,CVT,Petrol,2.5,,False,Japan,Perak,2,170000,46545.48
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2018,120213,Automatic,Petrol,1.5,,False,Japan,Selangor,3,105000,36552.11
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2023,33672,Automatic,Petrol,1.5,,False,Japan,Perak,1,105000,62863.13
+Honda,Civic,Type R,Sedan,2019,107345,CVT,Petrol,2.0,,True,Japan,Perak,3,390000,175767.0
+Volkswagen,Tiguan,1.4 TSI Highline,Suv,2016,161385,DCT,Petrol,1.4,,True,Germany,Melaka,2,175000,52260.87
+Toyota,Camry,2.0 E,Sedan,2016,197678,Automatic,Petrol,2.0,,False,Japan,Kuala Lumpur,3,190000,72586.04
+Volkswagen,Passat,1.8 Comfortline,Sedan,2022,38637,DCT,Petrol,1.8,,True,Germany,Perlis,4,180000,93699.77
+Proton,X70,Premium,Suv,2016,132163,DCT,Petrol,1.5,,True,Malaysia,Perlis,3,140000,57650.0
+Nissan,X-Trail,2.5 4WD,Suv,2019,78109,CVT,Petrol,2.5,,False,Japan,Melaka,3,170000,59108.12
+Tesla,Model Y,Performance,Suv,2022,23516,Automatic,Electric,,75.0,,USA,Terengganu,4,280000,140186.34
+Mazda,Mazda3,2.0 Sedan,Sedan,2019,119562,Automatic,Petrol,2.0,,False,Japan,Selangor,4,143000,55881.85
+Perodua,Axia,1.0 AV,Hatchback,2016,190841,CVT,Petrol,1.0,,False,Malaysia,Kelantan,3,49000,21177.36
+Mercedes,C-Class,C200 Avantgarde,Sedan,2022,37190,Automatic,Petrol,2.0,,True,Germany,Perak,5,290000,139547.71
+Honda,CR-V,2.0 2WD,Suv,2016,171819,CVT,Hybrid,2.0,,False,Japan,Melaka,3,155000,50251.95
+BMW,IX,xDrive50,Suv,2024,25692,Automatic,Electric,,111.5,,Germany,Pahang,4,490000,267975.66
+Proton,X70,Premium,Suv,2020,133316,DCT,Hybrid,1.5,,True,Malaysia,Kedah,2,140000,63298.33
+Honda,Civic,1.5 RS Turbo,Sedan,2021,114550,CVT,Petrol,1.5,,True,Japan,Johor,2,150000,81615.49
+Honda,CR-V,2.0 2WD,Suv,2019,75940,CVT,Petrol,2.0,,False,Japan,Penang,3,155000,78920.73
+Perodua,Bezza,1.0 G,Sedan,2017,216914,CVT,Petrol,1.0,,False,Malaysia,Melaka,4,43000,15669.32
+BMW,5 series(D),520d,Sedan,2020,79260,Automatic,Diesel,2.0,,True,Germany,Kedah,3,330000,133633.3
+Mercedes,A-Class,A250 AMG Line,Hatchback,2017,84893,Automatic,Petrol,2.0,,True,Germany,Penang,4,270000,88625.65
+Mercedes,A-Class,A200 Progressive,Hatchback,2024,8217,Automatic,Petrol,1.3,,True,Germany,Selangor,4,230000,118967.29
+BMW,3 Series,320i,Sedan,2016,209779,Automatic,Petrol,2.0,,True,Germany,Kelantan,3,250000,60556.18
+BMW,5 series(D),520d,Sedan,2024,13288,Automatic,Diesel,2.0,,True,Germany,Kedah,4,330000,155061.83
+Perodua,Myvi,1.5 H,Hatchback,2022,37355,CVT,Petrol,1.5,,False,Malaysia,Penang,3,54000,37227.15
+Proton,Saga,Premium,Sedan,2016,206300,Manual,Petrol,1.3,,False,Malaysia,Kelantan,5,41000,13581.0
+BMW,IX1,xDrive30,Suv,2024,4886,Automatic,Electric,,64.7,,Germany,Perak,4,275800,128063.75
+Proton,Saga,Standard,Sedan,2016,159723,Automatic,Petrol,1.3,,False,Malaysia,Melaka,4,34000,12460.23
+Volkswagen,Golf,1.4 TSI,Hatchback,2021,80874,DCT,Petrol,1.4,,True,Germany,Kelantan,2,155000,59123.61
+Mazda,Mazda2,1.5 Hatchback,Hatchback,2019,129457,Automatic,Petrol,1.5,,False,Japan,Johor,3,105000,41023.43
+Tesla,Model 3,RWD,Sedan,2022,135806,Automatic,Electric,,57.5,,USA,Melaka,2,190000,65708.57
+Perodua,Axia,1.0 AV,Hatchback,2018,126471,Manual,Petrol,1.0,,False,Malaysia,Melaka,2,49000,22290.01
+Perodua,Myvi,1.5 AV,Hatchback,2019,111235,CVT,Petrol,1.5,,False,Malaysia,Kuala Lumpur,3,59000,31291.14
+BMW,5 Series,520i,Sedan,2019,114993,Automatic,Petrol,2.0,,True,Germany,Kelantan,4,330000,106369.63
+Tesla,Model Y,Performance,Suv,2023,46937,Automatic,Electric,,75.0,,USA,Pahang,4,280000,130500.85
+Tesla,Model 3,Long Range AWD,Sedan,2024,17091,Automatic,Electric,,75.0,,USA,Negeri Sembilan,3,250000,137545.47
+Volkswagen,Golf,R,Hatchback,2016,109430,DCT,Petrol,2.0,,True,Germany,Johor,4,300000,96955.07
+Mercedes,C-Class,C200 Avantgarde,Sedan,2022,67796,Automatic,Petrol,2.0,,True,Germany,Penang,4,290000,130551.29
+Mazda,CX-5,2.0 2WD,Suv,2024,16972,Automatic,Petrol,2.0,,False,Japan,Perak,3,150000,86895.53
+Mazda,Mazda3,2.0 Liftback,Sedan,2023,22927,Automatic,Petrol,2.0,,False,Japan,Kedah,3,150000,90586.38
+Toyota,Corolla,1.8 G,Sedan,2020,133193,CVT,Petrol,1.8,,False,Japan,Terengganu,2,136000,70487.97
+Perodua,Bezza,1.0 G,Sedan,2021,61197,Automatic,Petrol,1.0,,False,Malaysia,Kuala Lumpur,4,43000,26415.89
+Volkswagen,Golf,1.4 TSI,Hatchback,2022,43878,DCT,Petrol,1.4,,True,Germany,Johor,4,155000,81705.16
+Proton,X50,Standard,Suv,2017,167424,DCT,Petrol,1.5,,True,Malaysia,Pahang,4,89000,36767.94
+Nissan,X-Trail,2.0 2WD,Suv,2024,17318,CVT,Petrol,2.0,,False,Japan,Kedah,2,145000,83722.82
+Proton,Persona,Executive,Sedan,2016,132891,Manual,Petrol,1.6,,False,Malaysia,Melaka,2,52000,14643.12
+Proton,Saga,Premium,Sedan,2020,106923,Manual,Petrol,1.3,,False,Malaysia,Johor,4,41000,18797.64
+BMW,5 Series,520i,Sedan,2018,175802,Automatic,Petrol,2.0,,True,Germany,Kelantan,4,330000,89652.82
+Mercedes,A-Class,A200 Progressive,Hatchback,2019,69312,Automatic,Petrol,1.3,,True,Germany,Terengganu,3,230000,95987.91
+Nissan,X-Trail,2.5 4WD,Suv,2021,52625,CVT,Petrol,2.5,,False,Japan,Selangor,4,170000,76832.19
+BYD,Seal,Premium,Sedan,2022,100552,Automatic,Electric,,82.5,,China,Perak,5,230000,94928.31
+Toyota,Corolla,1.8 E,Sedan,2016,100184,Automatic,Petrol,1.8,,False,Japan,Penang,5,128000,54725.24
+Perodua,Bezza,1.3 AV,Sedan,2018,92169,Automatic,Petrol,1.3,,False,Malaysia,Johor,5,55000,28507.36
+Mazda,Mazda3,2.0 Sedan,Sedan,2023,60993,Automatic,Petrol,2.0,,False,Japan,Kelantan,3,143000,80741.49
+Honda,Civic,Type R,Sedan,2018,83465,CVT,Petrol,2.0,,True,Japan,Terengganu,4,390000,187534.47
+Nissan,Almera,1.0 VLT Turbo,Sedan,2019,104922,CVT,Petrol,1.0,,True,Japan,Selangor,3,95000,35600.33
+Honda,CR-V,1.5 TC-P,Suv,2019,87984,CVT,Hybrid,1.5,,True,Japan,Penang,3,180000,83013.33
+Perodua,Myvi,1.5 AV,Hatchback,2020,69972,Automatic,Petrol,1.5,,False,Malaysia,Penang,3,59000,29940.8
+Honda,Civic,1.5 E Turbo,Sedan,2017,202646,CVT,Petrol,1.5,,True,Japan,Terengganu,4,130000,56073.38
+Proton,X70,Executive,Suv,2017,155258,DCT,Petrol,1.5,,True,Malaysia,Perak,1,123000,51191.99
+Toyota,Vios,1.5 E,Sedan,2024,22058,Automatic,Petrol,1.5,,False,Japan,Selangor,3,90000,54278.3
+BYD,Seal,Performance AWD,Sedan,2024,19190,Automatic,Electric,,82.5,,China,Kuala Lumpur,3,260000,154482.55
+Honda,CR-V,2.0 2WD,Suv,2018,133949,CVT,Hybrid,2.0,,False,Japan,Selangor,3,155000,68062.34
+Perodua,Bezza,1.3 AV,Sedan,2023,58132,Automatic,Petrol,1.3,,False,Malaysia,Kuala Lumpur,3,55000,31689.21
+Nissan,X-Trail,2.5 4WD,Suv,2017,115355,CVT,Petrol,2.5,,False,Japan,Kuala Lumpur,4,170000,62504.86
+Tesla,Model Y,Performance,Suv,2023,93073,Automatic,Electric,,75.0,,USA,Kuala Lumpur,5,280000,135942.82
+Nissan,Almera,1.0 VL Turbo,Sedan,2021,121852,CVT,Petrol,1.0,,True,Japan,Perak,4,85000,37583.17
+BMW,IX1,eDrive20,Suv,2023,78961,Automatic,Electric,,64.7,,Germany,Perlis,4,250800,101809.67
+Perodua,Axia,1.0 G,Hatchback,2016,200154,CVT,Petrol,1.0,,False,Malaysia,Kelantan,4,38000,13000.76
+Mercedes,C-Class,C200 Avantgarde,Sedan,2023,67283,Automatic,Petrol,2.0,,True,Germany,Johor,3,290000,113694.98
+BYD,Seal,Premium,Sedan,2022,82871,Automatic,Electric,,82.5,,China,Perak,3,230000,101672.15
+Volkswagen,Passat,2.0 Highline,Sedan,2022,66259,DCT,Petrol,2.0,,True,Germany,Terengganu,2,200000,99716.12
+Proton,Saga,Premium,Sedan,2019,100127,Automatic,Petrol,1.3,,False,Malaysia,Terengganu,2,41000,16261.33
+Nissan,Almera,1.0 VLT Turbo,Sedan,2024,14157,Automatic,Petrol,1.0,,True,Japan,Pahang,3,95000,52225.71
+Tesla,Model Y,Performance,Suv,2023,41710,Automatic,Electric,,75.0,,USA,Kelantan,3,280000,148392.08
+Perodua,Myvi,1.5 H,Hatchback,2021,60483,Automatic,Petrol,1.5,,False,Malaysia,Selangor,4,54000,29373.56
+BYD,Atto 3,Standard Range,Suv,2024,13297,Automatic,Electric,,49.9,,China,Selangor,3,150000,78643.32
